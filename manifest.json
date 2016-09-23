@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name":  "Forget that page",
+  "description": "Forget that page",
+  "version": "1.0",
+
+  "browser_action": {
+  "default_icon": "swipe.png",
+  "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "history",
+    "tabs",
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
