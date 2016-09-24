@@ -32,4 +32,4 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 
 
-Icon made by Freepik from www.flaticon.com
+###### Icon made by Freepik from www.flaticon.com
