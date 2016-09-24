@@ -13,7 +13,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ### Unstable version
 - Download the "src" folder on your computer
-- Go to "chrome://extensions/"" on your Chromium/Google Chrome bowser
+- Go to "chrome://extensions/"" on your Chromium/Google Chrome browser
 - Allow developer mode
 - Select "load unpacked extension"
 - Browse to the "src" folder
