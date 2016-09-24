@@ -23,7 +23,8 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - For Chromium/Google Chrome
 
 ## Features to come
-- Get javascript function return code to display message
+- Display message from javascript
+- Message displayed in different languages
 - Icon color change when page url is deleted form history
 - Images for the store view
 - Firefox version
