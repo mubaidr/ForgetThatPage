@@ -22,12 +22,16 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Deletes the current page from history and displays a message
 - For Chromium/Google Chrome
 
-## Features to come
+## Version 1.1.0 24/09/2016
+- Three-numbers versioning (major.minor.small change)
 - Display message from javascript
-- Message displayed in different languages
+- Message in French or English
+
+## Features to come
 - Icon color change when page url is deleted form history
 - Images for the store view
 - Firefox version
+- More languages support
 
 
 

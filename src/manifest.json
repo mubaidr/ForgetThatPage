@@ -3,7 +3,7 @@
 
   "name":  "Forget that page",
   "description": "Forget that page",
-  "version": "1.0",
+  "version": "1.1.0",
 
   "browser_action": {
   "default_icon": "swipe.png",
