@@ -26,15 +26,12 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Three-numbers versioning (major.minor.small change)
 - Display message from javascript
 - Message in French or English
+- Icon color change : green when deleted, back to normal when refresh or page change
 
 ## Features to come
-- Icon color change when page url is deleted form history
 - Images for the store view
+- Better general design
+- More languages supported
 - Firefox version
-- More languages support
-
-
-
-
 
 ###### Icon made by Freepik from www.flaticon.com

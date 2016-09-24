@@ -9,14 +9,16 @@
 // GNU GPLv3 licence
 //
 
+// url of the current active tab
+var currentUrl ;
+
+// Get current navigator language
+var language = window.navigator.userLanguage || window.navigator.language;
+
 
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
-
     // Get url of the current active tab
-    var currentUrl = tabs[0].url;
-
-    // Get current navigator language
-    var language = window.navigator.userLanguage || window.navigator.language;
+    currentUrl = tabs[0].url;
 
     // Delete history for that url
     chrome.history.deleteUrl({
@@ -30,6 +32,9 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
       // Display message
       document.getElementById("returnText").innerHTML = message;
+
+      // Change icon to really see it's ok
+      chrome.browserAction.setIcon({path:"swipe-done.png"});
 
     });
 
