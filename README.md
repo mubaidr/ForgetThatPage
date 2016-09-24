@@ -29,6 +29,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Icon color change : green when deleted, back to normal when refresh or page change
 
 ## Features to come
+- Also delete from search history
 - Images for the store view
 - Better general design
 - More languages supported
