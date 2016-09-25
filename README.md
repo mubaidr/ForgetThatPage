@@ -20,7 +20,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ## Versions
 
-### Version 1.2.0 - Work In Progress
+### Version 1.2.0 - 25/09/2016
 - Green icon when current page is not on the history
 - New description
 - Better file hierarchy
