@@ -18,17 +18,24 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Select "load unpacked extension"
 - Browse to the "src" folder
 
-## Version 1.0 - 23/09/2016
-- Deletes the current page from history and displays a message
-- For Chromium/Google Chrome
+## Versions
 
-## Version 1.1.0 - 24/09/2016
+### Version 1.1.0 - 24/09/2016
 - Three-numbers versioning (major.minor.small change)
 - Display message from javascript
 - Message in French or English
 - Icon color change : green when deleted, back to normal when refresh or page change
 
-## Features to come
+### Version 1.0 - 23/09/2016
+- Deletes the current page from history and displays a message
+- For Chromium/Google Chrome
+
+#### Note
+Version 1 kind of a public beta version. It is available on the Chrome Web Store but there are still important features missing. When all those features will be implemented, the extension will move to v2.
+Minor version number is incremented when a new feature is added. 
+Last number of the version is incremented when code is changed but no new feature is added.
+
+## Incoming features
 - Also delete from search history
 - Images for the store view
 - Better general design
