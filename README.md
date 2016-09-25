@@ -24,6 +24,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Green icon when current page is not on the history
 - New description
 - Better file hierarchy
+- Slightly better design
 
 ### Version 1.1.0 - 24/09/2016
 - Three-numbers versioning (major.minor.small change)
@@ -47,3 +48,4 @@ Last number of the version is incremented when code is changed but no new featur
 - Firefox version
 
 ###### Icon made by Freepik from www.flaticon.com
+###### Background pattern from subtlepatterns.com
