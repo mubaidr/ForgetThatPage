@@ -37,6 +37,7 @@ Last number of the version is incremented when code is changed but no new featur
 
 ## Incoming features
 - Also delete from search history
+- Green icon when current page is not on the history
 - Images for the store view
 - Better general design
 - More languages supported
