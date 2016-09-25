@@ -29,21 +29,21 @@ chrome.tabs.onActivated.addListener( function(tabs) {
       // For every url containing the current one
       for (var i = 0; i < results.length; i++) {
 
-        // Incrementing counter if result url is different from current url
-        if (results[i].url != currentUrl){
+        // Incrementing counter if result url equals the current url
+        if (results[i].url == currentUrl){
           ctr++;
         }
+      }
 
-        // If counter equals number of results,
+        // If counter is zero,
         // it means current url is not in history, so icon is green
-        if (ctr == results.length - 1){
+        if (ctr == 0){
           chrome.browserAction.setIcon({path:"img/swipe-done.png"});
-
         // Else, icon return to original state
         } else {
-          chrome.browserAction.setIcon({path:"img/swipe-icon.png"});
+            chrome.browserAction.setIcon({path:"img/swipe-icon.png"});
         }
-      }
+
 
     });
 
