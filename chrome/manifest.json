@@ -6,8 +6,18 @@
   "version": "1.2.1",
 
   "browser_action": {
-  "default_icon": "img/swipe-icon.png",
+  "default_icon": "img/icon/swipe128.png",
   "default_popup": "popup.html"
+  },
+
+  "icons": {
+    "16": "img/icon/swipe16.png",
+    "24": "img/icon/swipe24.png",
+    "32": "img/icon/swipe32.png",
+    "64": "img/icon/swipe64.png",
+    "128": "img/icon/swipe128.png",
+    "256": "img/icon/swipe256.png",
+    "512": "img/icon/swipe512.png"
   },
 
   "background": {

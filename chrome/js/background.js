@@ -41,7 +41,7 @@ chrome.tabs.onActivated.addListener( function(tabs) {
           chrome.browserAction.setIcon({path:"img/swipe-done.png"});
         // Else, icon return to original state
         } else {
-            chrome.browserAction.setIcon({path:"img/swipe-icon.png"});
+            chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
         }
 
 
@@ -54,6 +54,6 @@ chrome.tabs.onActivated.addListener( function(tabs) {
 // When the tab is updated, the icon returns to its original state
 chrome.tabs.onUpdated.addListener( function(tabs) {
 
-  chrome.browserAction.setIcon({path:"img/swipe-icon.png"});
+  chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
 
 });

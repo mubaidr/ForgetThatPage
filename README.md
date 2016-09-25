@@ -20,6 +20,10 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ## Versions
 
+### Version 1.2.2 - Work In Progress
+- Icon on the "chrome/extension" view
+- Code comments
+
 ### Version 1.2.1 - 25/09/2016
 - Green icon when current page is not on the history
 - New description
