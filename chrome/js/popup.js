@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.1.0
+// v1.1.1
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -34,7 +34,7 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
       document.getElementById("returnText").innerHTML = message;
 
       // Change icon to really see it's ok
-      chrome.browserAction.setIcon({path:"swipe-done.png"});
+      chrome.browserAction.setIcon({path:"img/swipe-done.png"});
 
     });
 

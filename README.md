@@ -12,13 +12,18 @@ Download it from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
 ### Unstable version
-- Download the "src" folder on your computer
+- Download the "chrome" folder on your computer
 - Go to "chrome://extensions/"" on your Chromium/Google Chrome browser
 - Allow developer mode
 - Select "load unpacked extension"
-- Browse to the "src" folder
+- Browse to the "chrome" folder
 
 ## Versions
+
+### Version 1.2.0 - Work In Progress
+- Green icon when current page is not on the history
+- New description
+- Better file hierarchy
 
 ### Version 1.1.0 - 24/09/2016
 - Three-numbers versioning (major.minor.small change)
@@ -32,12 +37,10 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 #### Note
 Version 1 kind of a public beta version. It is available on the Chrome Web Store but there are still important features missing. When all those features will be implemented, the extension will move to v2.
-Minor version number is incremented when a new feature is added. 
+Minor version number is incremented when a new feature is added.
 Last number of the version is incremented when code is changed but no new feature is added.
 
 ## Incoming features
-- Also delete from search history
-- Green icon when current page is not on the history
 - Images for the store view
 - Better general design
 - More languages supported

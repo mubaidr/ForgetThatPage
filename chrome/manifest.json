@@ -2,11 +2,11 @@
   "manifest_version": 2,
 
   "name":  "Forget that page",
-  "description": "Forget that page",
-  "version": "1.1.0",
+  "description": "Delete the current webpage from your browsing history, just with one click.",
+  "version": "1.2.0",
 
   "browser_action": {
-  "default_icon": "swipe-icon.png",
+  "default_icon": "img/swipe-icon.png",
   "default_popup": "popup.html"
   },
 
