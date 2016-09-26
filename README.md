@@ -1,4 +1,4 @@
-# Forget That Page
+# Forget That Page  <img src="chrome/img/icon/swipe32.png" />
 We all at some point ended up on a webpage that we don't want to appear on our browsing history. Either it's for a gift, or a dumb page...
 
 With "Forget That Page", you can delete from your history the webpage you're on, just in one click !
@@ -24,7 +24,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Icon on the "chrome://extension" view
 - Code comments
 
-### Version 1.2.1 - 25/09/2016
+### Version 1.2.1 - 25/09/2016 
 - Green icon when current page is not on the history
 - New description
 - Better file hierarchy
