@@ -6,11 +6,11 @@
 // Cyril Weller
 // cyril.weller@protonmail.com
 //
-// GNU GPLv3 licence
+// GNU GPLv3 license
 //
 
 //
-// getMessage
+// getMessage()
 //    displays message depending on the user language
 //
 function getMessage(language){
