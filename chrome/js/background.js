@@ -6,7 +6,7 @@
 // Cyril Weller
 // cyril.weller@protonmail.com
 //
-// GNU GPLv3 licence
+// GNU GPLv3 license
 //
 
 // When the tab is changed :
@@ -35,15 +35,15 @@ chrome.tabs.onActivated.addListener( function(tabs) {
         }
       }
 
-        // If counter is zero,
-        // it means current url is not in history, so icon is green
-        if (ctr == 0){
-          chrome.browserAction.setIcon({path:"img/swipe-done.png"});
-        // Else, icon return to original state
-        } else {
-            chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
-        }
-
+      // If counter is zero,
+      // it means current url is not in history, so icon is green
+      if (ctr == 0){
+        chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
+        
+      // Else, icon returns to original state
+      } else {
+          chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
+      }
 
     });
 
@@ -53,7 +53,7 @@ chrome.tabs.onActivated.addListener( function(tabs) {
 
 // When the tab is updated, the icon returns to its original state
 chrome.tabs.onUpdated.addListener( function(tabs) {
-
-  chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
+  
+  chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
 
 });
