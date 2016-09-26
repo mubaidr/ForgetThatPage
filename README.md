@@ -21,7 +21,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 ## Versions
 
 ### Version 1.2.2 - Work In Progress
-- Icon on the "chrome/extension" view
+- Icon on the "chrome://extension" view
 - Code comments
 
 ### Version 1.2.1 - 25/09/2016
@@ -41,7 +41,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - For Chromium/Google Chrome
 
 #### Note
-Version 1 kind of a public beta version. It is available on the Chrome Web Store but there are still important features missing. When all those features will be implemented, the extension will move to v2.
+Version 1 is kind of a public beta version. It's available on the Chrome Web Store but there are still important features missing. When all those features will be implemented, the extension will move to v2.
 Minor version number is incremented when a new feature is added.
 Last number of the version is incremented when code is changed but no new feature is added.
 
@@ -51,5 +51,21 @@ Last number of the version is incremented when code is changed but no new featur
 - More languages supported
 - Firefox version
 
-###### Icon made by Freepik from www.flaticon.com
-###### Background pattern from subtlepatterns.com
+## License
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+## References
+Icon made by Freepik from www.flaticon.com
+
+Background pattern from www.subtlepatterns.com
