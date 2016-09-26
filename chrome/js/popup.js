@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.1.1
+// v1.2.0
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -11,9 +11,6 @@
 
 // Url of the current active tab
 var currentUrl ;
-
-// Get current navigator language
-var language = window.navigator.userLanguage || window.navigator.language;
 
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
     // Get url of the current active tab
@@ -26,15 +23,14 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
     }, function() {
 
-      // Get message from function
-      var message = getMessage(language);
+      // Get message for browser locale
+      var message = chrome.i18n.getMessage("websiteDeletedOK");
 
       // Display message
       document.getElementById("returnText").innerHTML = message;
 
       // Change icon to really see it's ok
       chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
-
     });
 
 });
