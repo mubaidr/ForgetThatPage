@@ -6,15 +6,14 @@
 // Cyril Weller
 // cyril.weller@protonmail.com
 //
-// GNU GPLv3 licence
+// GNU GPLv3 license
 //
 
-// url of the current active tab
+// Url of the current active tab
 var currentUrl ;
 
 // Get current navigator language
 var language = window.navigator.userLanguage || window.navigator.language;
-
 
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
     // Get url of the current active tab
@@ -34,7 +33,7 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
       document.getElementById("returnText").innerHTML = message;
 
       // Change icon to really see it's ok
-      chrome.browserAction.setIcon({path:"img/swipe-done.png"});
+      chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
 
     });
 
