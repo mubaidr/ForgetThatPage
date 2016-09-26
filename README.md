@@ -46,6 +46,7 @@ Minor version number is incremented when a new feature is added.
 Last number of the version is incremented when code is changed but no new feature is added.
 
 ## Incoming features
+- Use of message.json for internationalization
 - Images for the store view
 - Better general design
 - More languages supported
