@@ -58,6 +58,7 @@ Revision number is incremented when code is changed but no new feature is added.
 - Better general design
 - More languages supported
 - Firefox version
+- Blacklist option (delete automatically every page from a website)
 
 ## License
 This program is free software: you can redistribute it and/or modify
