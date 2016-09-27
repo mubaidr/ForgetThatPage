@@ -5,7 +5,7 @@ With "Forget That Page", you can delete from your history the webpage you're on,
 
 It's simple but useful, and also open source !
 
-<img src="_images/forget-that-page-view.png" width="640" height="400"/>
+<img src=".images/forget-that-page-view.png" width="640" height="400"/>
 
 ## How to use it
 
@@ -24,6 +24,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ### Version 1.2.3 - Work In Progress
 - Use of messages.json for internationalization
+- Added Spanish (may be slightly incorrect)
 
 ### Version 1.2.2 - 26/09/2016
 - Icon on the "chrome://extension" view
@@ -50,6 +51,7 @@ Minor version number is incremented when a new feature is added.
 Last number of the version is incremented when code is changed but no new feature is added.
 
 ## Incoming features
+- Delete other things than history (cookies, local storage... )
 - Images for the store view
 - Better general design
 - More languages supported
