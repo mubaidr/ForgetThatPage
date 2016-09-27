@@ -48,7 +48,8 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 #### Note
 Minor version number is incremented when a new feature is added.
-Last number of the version is incremented when code is changed but no new feature is added.
+
+Revision number is incremented when code is changed but no new feature is added.
 
 ## Incoming features
 - Delete other things than history (cookies, local storage... )
