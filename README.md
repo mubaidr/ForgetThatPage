@@ -22,7 +22,8 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ## Versions
 
-### Version 1.2.3 - Work In Progress
+### Version 1.2.3 - 28/09/2016
+- Default icon when tab is created
 - Use of messages.json for internationalization
 - Added Spanish (may be slightly incorrect)
 
@@ -52,13 +53,12 @@ Minor version number is incremented when a new feature is added.
 Revision number is incremented when code is changed but no new feature is added.
 
 ## Incoming features
-- Keep page deleted if reloaded
 - Delete other things than history (cookies, local storage... )
 - Images for the store view
 - Better general design
 - More languages supported
 - Firefox version
-- Blacklist option (delete automatically every page from a website)
+- (Blacklist option (delete automatically every page from a website))
 
 ## License
 This program is free software: you can redistribute it and/or modify

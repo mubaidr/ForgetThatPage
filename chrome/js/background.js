@@ -1,7 +1,7 @@
 //
 // background.js
 //
-// v1.2.0
+// v1.3.0
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -39,7 +39,7 @@ chrome.tabs.onActivated.addListener( function(tabs) {
       // it means current url is not in history, so icon is green
       if (ctr == 0){
         chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
-        
+
       // Else, icon returns to original state
       } else {
           chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
@@ -52,8 +52,15 @@ chrome.tabs.onActivated.addListener( function(tabs) {
 });
 
 // When the tab is updated, the icon returns to its original state
-chrome.tabs.onUpdated.addListener( function(tabs) {
-  
+chrome.tabs.onUpdated.addListener( function(tabId, changeInfo, tab) {
+
+  chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
+
+});
+
+// Default icon when tab is created
+chrome.tabs.onCreated.addListener( function(tabs){
+
   chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
 
 });
