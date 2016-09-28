@@ -53,6 +53,7 @@ Minor version number is incremented when a new feature is added.
 Revision number is incremented when code is changed but no new feature is added.
 
 ## Incoming features
+- Delete from recently closed too
 - Delete other things than history (cookies, local storage... )
 - Images for the store view
 - Better general design
