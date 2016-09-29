@@ -11,16 +11,16 @@
 */
 
 body {
-  background-color: white;
+  background-color: #DADADA;
   margin: 0px 0px 0px 0px;
 }
 
 section {
   background-image: url("../img/background.png"); /* Background pattern from subtlepatterns.com */
-  margin-left: 4px;
-  margin-right: 4px;
-  margin-top: 4px;
-  margin-bottom: 4px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
 
 div {
@@ -30,4 +30,5 @@ div {
   padding-right: 5px;
   padding-top: 5px;
   padding-bottom: 5px;
+  color:#424242;
 }

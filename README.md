@@ -22,6 +22,10 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ## Versions
 
+### Version 1.2.4 - Work In Progress
+- Better manifest.json
+- Small design changes
+
 ### Version 1.2.3 - 28/09/2016
 - Default icon when tab is created
 - Use of messages.json for internationalization
