@@ -25,9 +25,9 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Better manifest.json
 - Small design changes
 - New icon on the Chrome Store
-- Added Korean (Thanks to MattOnADinosaur from reddit)
-- Added Dutch (Thanks to akroe from reddit)
-- Added Esperanto (Thanks to Kamparano from reddit)
+- Added Korean, Dutch, Esperanto, Romanian, Italian, Polish, Portuguese
+- Corrected Spanish
+##### Thanks to all Reddit translators
 
 ### Version 1.2.3 - 28/09/2016
 - Default icon when tab is created
@@ -82,6 +82,9 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## References
+Thanks to all these reddit translators for their help:
+MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto, sarveil, rararaw21
+
 Icon made by Freepik from www.flaticon.com
 
 Background pattern from www.subtlepatterns.com
