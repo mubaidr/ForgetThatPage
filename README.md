@@ -21,10 +21,13 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Browse to the "chrome" folder
 
 ## Versions
-
 ### Version 1.2.4 - Work In Progress
 - Better manifest.json
 - Small design changes
+- New icon on the Chrome Store
+- Added Esperanto (Straight from Google Translate)
+- Added Korean (Thanks to MattOnADinosaur from reddit /r/translator)
+- Added Dutch (Thanks to akroe from reddit /r/translator)
 
 ### Version 1.2.3 - 28/09/2016
 - Default icon when tab is created
@@ -59,7 +62,6 @@ Revision number is incremented when code is changed but no new feature is added.
 ## Incoming features
 - Delete from recently closed too
 - Delete other things than history (cookies, local storage... )
-- Images for the store view
 - Better general design
 - More languages supported
 - Firefox version
