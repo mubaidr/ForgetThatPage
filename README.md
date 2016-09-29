@@ -28,7 +28,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Added Korean, Dutch, Esperanto, Romanian, Italian, Polish, Portuguese
 - Corrected Spanish
 
-##### Thanks to all Reddit translators
+<b> Thanks to all Reddit translators for their help</b>
 
 ### Version 1.2.3 - 28/09/2016
 - Default icon when tab is created
