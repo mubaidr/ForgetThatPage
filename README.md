@@ -27,6 +27,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - New icon on the Chrome Store
 - Added Korean, Dutch, Esperanto, Romanian, Italian, Polish, Portuguese
 - Corrected Spanish
+
 ##### Thanks to all Reddit translators
 
 ### Version 1.2.3 - 28/09/2016
@@ -82,7 +83,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## References
-Thanks to all these reddit translators for their help:
+Thanks to all the following reddit translators for their help:
 MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto, sarveil, rararaw21
 
 Icon made by Freepik from www.flaticon.com
