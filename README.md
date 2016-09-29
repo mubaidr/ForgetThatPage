@@ -25,9 +25,9 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Better manifest.json
 - Small design changes
 - New icon on the Chrome Store
-- Added Esperanto (Straight from Google Translate)
-- Added Korean (Thanks to MattOnADinosaur from reddit /r/translator)
-- Added Dutch (Thanks to akroe from reddit /r/translator)
+- Added Korean (Thanks to MattOnADinosaur from reddit)
+- Added Dutch (Thanks to akroe from reddit)
+- Added Esperanto (Thanks to Kamparano from reddit)
 
 ### Version 1.2.3 - 28/09/2016
 - Default icon when tab is created
