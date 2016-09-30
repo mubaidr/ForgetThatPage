@@ -21,12 +21,13 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Browse to the "chrome" folder
 
 ## Versions
-### Version 1.2.4 - Work In Progress
+### Version 1.2.4 - 30/09/2016
 - Better manifest.json
 - Small design changes
 - New icon on the Chrome Store
-- Added Korean, Dutch, Esperanto, Romanian, Italian, Polish, Portuguese
 - Corrected Spanish
+- Added Korean, Dutch, Esperanto, Romanian, Italian, Polish,
+Portuguese (Brazil), Persian
 
 <b> Thanks to all Reddit translators for their help</b>
 
@@ -84,7 +85,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## References
 Thanks to all the following reddit translators for their help:
-MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto, sarveil, rararaw21
+MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
+sarveil, rararaw21, klingy_koala, coriandres
 
 Icon made by Freepik from www.flaticon.com
 
