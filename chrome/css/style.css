@@ -14,14 +14,15 @@ body {
   background-color: #DADADA;
   margin: 0px 0px 0px 0px;
   min-width: 90px; /* Seems great to display many languages correctly */
+  background-image: url("../img/background.png"); /* Background pattern from subtlepatterns.com */
 }
 
 section {
-  background-image: url("../img/background.png"); /* Background pattern from subtlepatterns.com */
-  margin-left: 2px;
-  margin-right: 2px;
-  margin-top: 2px;
-  margin-bottom: 2px;
+  background-color: #F9F9F9;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 div {

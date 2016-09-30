@@ -22,7 +22,9 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ## Versions
 ### Version 1.2.6 - Work In Progress
-- Added Swedish and Serbian
+- Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech
+- Corrected German
+- Small design changes
 
 ### Version 1.2.5 - 30/09/2016
 - Better manifest.json
@@ -92,7 +94,7 @@ Thanks to all the following reddit translators for their help:
 MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
-Emmison, ledenicaj
+Emmison, ledenicaj, owain2002, Boothiepro,
 
 Icon made by Freepik from www.flaticon.com
 
