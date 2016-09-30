@@ -27,7 +27,8 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - New icon on the Chrome Store
 - Corrected Spanish
 - Added Korean, Dutch, Esperanto, Romanian, Italian, Polish,
-Portuguese (Brazil), Persian
+Portuguese (Brazil), Persian, Arabic, Danish, German, Hebrew,
+Malay and Turkish
 
 <b> Thanks to all Reddit translators for their help</b>
 
@@ -86,7 +87,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ## References
 Thanks to all the following reddit translators for their help:
 MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
-sarveil, rararaw21, klingy_koala, coriandres
+sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
+Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44
 
 Icon made by Freepik from www.flaticon.com
 
