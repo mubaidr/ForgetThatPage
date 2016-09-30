@@ -21,6 +21,9 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Browse to the "chrome" folder
 
 ## Versions
+### Version 1.2.6 - Work In Progress
+- Added Swedish and Serbian
+
 ### Version 1.2.5 - 30/09/2016
 - Better manifest.json
 - Small design changes
