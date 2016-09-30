@@ -24,7 +24,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 ### Version 1.2.6 - Work In Progress
 - Popup closes after 2 seconds
 - Small design changes
-- Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech
+- Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish
 - Corrected German
 
 
@@ -95,7 +95,7 @@ Thanks to all the following reddit translators for their help:
 MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
-Emmison, ledenicaj, owain2002, Boothiepro,
+Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123
 
 Icon made by Freepik from www.flaticon.com
 
