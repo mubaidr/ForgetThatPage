@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.2.0
+// v1.3.0
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -31,6 +31,12 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
       // Change icon to really see it's ok
       chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
+
+      // After 2 seconds, the popup closes itself
+      setTimeout(function(){
+        window.close()
+      },2000);
+
     });
 
 });

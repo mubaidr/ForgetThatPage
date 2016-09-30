@@ -22,9 +22,11 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ## Versions
 ### Version 1.2.6 - Work In Progress
+- Popup closes after 2 seconds
+- Small design changes
 - Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech
 - Corrected German
-- Small design changes
+
 
 ### Version 1.2.5 - 30/09/2016
 - Better manifest.json
@@ -68,8 +70,7 @@ Minor version number is incremented when a new feature is added.
 Revision number is incremented when code is changed but no new feature is added.
 
 ## Incoming features
-- Delete from recently closed too
-- Delete other things than history (cookies, local storage... )
+- Delete more things (cookies, local storage... )
 - Better general design
 - More languages supported
 - Firefox version
