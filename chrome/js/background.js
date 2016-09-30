@@ -20,7 +20,7 @@ chrome.tabs.onActivated.addListener( function(tabs) {
     var currentUrl = tabs[0].url;
 
     // Searching the history for the currentUrl
-    chrome.history.search({e
+    chrome.history.search({
       text: currentUrl,
     }, function(results) {
 

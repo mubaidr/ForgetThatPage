@@ -3,8 +3,8 @@
 
   "name":  "Forget that page",
   "short_name": "Forget that page",
-  "version": "1.2.4",
-  "version_name": "1.2.4",
+  "version": "1.2.5",
+  "version_name": "1.2.5",
   "author": "Cyril Weller",
   "description": "Delete the current webpage from your browsing history, just with one click.",
   "default_locale":"en",
