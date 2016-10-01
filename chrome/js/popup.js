@@ -23,6 +23,18 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
     }, function() {
 
+
+      // For http/https url
+      if (currentUrl.indexOf("http") !== -1){
+
+        // Delete session storage for current url
+        chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
+
+        // Delete local storage for current url
+        chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
+      }
+
+
       // Get message for browser locale
       var message = chrome.i18n.getMessage("websiteDeletedOK");
 
@@ -32,10 +44,8 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
       // Change icon to really see it's ok
       chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
 
-      // After 2 seconds, the popup closes itself
-      setTimeout(function(){
-        window.close()
-      },2000);
+      // After 1.5 seconds, the popup closes itself
+      setTimeout(function(){ window.close() },1500);
 
     });
 

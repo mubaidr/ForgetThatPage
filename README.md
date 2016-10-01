@@ -21,12 +21,13 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Browse to the "chrome" folder
 
 ## Versions
-### Version 1.2.6 - Work In Progress
-- Popup closes after 2 seconds
+### Version 1.3.0 - Work In Progress
+- Delete local storage
+- Delete session storage
+- Popup closes after 1.5 seconds
 - Small design changes
 - Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish
 - Corrected German
-
 
 ### Version 1.2.5 - 30/09/2016
 - Better manifest.json
@@ -70,7 +71,7 @@ Minor version number is incremented when a new feature is added.
 Revision number is incremented when code is changed but no new feature is added.
 
 ## Incoming features
-- Delete more things (cookies, local storage... )
+- Delete more things (cookies... )
 - Better general design
 - More languages supported
 - Firefox version
