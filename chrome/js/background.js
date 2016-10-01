@@ -1,7 +1,7 @@
 //
 // background.js
 //
-// v1.3.0
+// v1.3.1
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -12,7 +12,7 @@
 // When the tab is changed :
 //  The icon is green if the tab is not on the history
 //  The icon is back to grey if the tab is on the history
-chrome.tabs.onActivated.addListener( function(tabs) {
+chrome.tabs.onActivated.addListener(function(tabs) {
 
   chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
@@ -21,7 +21,9 @@ chrome.tabs.onActivated.addListener( function(tabs) {
 
     // Searching the history for the currentUrl
     chrome.history.search({
+
       text: currentUrl,
+
     }, function(results) {
 
       var ctr = 0;
@@ -38,11 +40,11 @@ chrome.tabs.onActivated.addListener( function(tabs) {
       // If counter is zero,
       // it means current url is not in history, so icon is green
       if (ctr == 0){
-        chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
+        chrome.browserAction.setIcon({path:"img/swipe-done.png"});
 
       // Else, icon returns to original state
       } else {
-          chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
+          chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
       }
 
     });
@@ -52,15 +54,15 @@ chrome.tabs.onActivated.addListener( function(tabs) {
 });
 
 // When the tab is updated, the icon returns to its original state
-chrome.tabs.onUpdated.addListener( function(tabId, changeInfo, tab) {
+chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
 
-  chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
+  chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
 
 });
 
 // Default icon when tab is created
-chrome.tabs.onCreated.addListener( function(tabs){
+chrome.tabs.onCreated.addListener(function(tabs){
 
-  chrome.browserAction.setIcon({ path:"img/icon/swipe128.png" });
+  chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
 
 });
