@@ -27,7 +27,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Popup closes after 1.5 seconds
 - Small design changes
 - Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish
-- Corrected German
+- Corrected German, Italian
 
 ### Version 1.2.5 - 30/09/2016
 - Better manifest.json
@@ -96,7 +96,7 @@ Thanks to all the following reddit translators for their help:
 MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
-Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123
+Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver
 
 Icon made by Freepik from www.flaticon.com
 
