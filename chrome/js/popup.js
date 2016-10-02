@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.3.1
+// v1.3.2
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -36,6 +36,15 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
       // Get message for browser locale
       var message = chrome.i18n.getMessage("websiteDeletedOK");
+
+      // Get navigator language
+      var userLang = navigator.language || navigator.userLanguage;
+
+      // If language is persian, arabic or hebrew,
+      // font-size is 11pt to be more readable
+      if (userLang == 'ar' || userLang == 'fa' || userLang == 'he') {
+        document.getElementById("returnText").setAttribute('style','font-size:11pt');
+      }
 
       // Display message
       document.getElementById("returnText").innerHTML = message;

@@ -1,6 +1,4 @@
 {
-  "manifest_version": 2,
-
   "name":  "Forget that page",
   "short_name": "Forget that page",
   "version": "1.3.0",
@@ -8,11 +6,13 @@
   "author": "Cyril Weller",
   "description": "Delete history, local storage and session storage for the current webpage, just with one click !
   Available in more than 20 different languages.",
+
+  "manifest_version": 2,
   "default_locale":"en",
 
   "browser_action": {
     "default_title": "Forget that page",
-    "default_icon": "img/icon/swipe128.png",
+    "default_icon": "img/icon/swipe512.png",
     "default_popup": "popup.html"
   },
 
