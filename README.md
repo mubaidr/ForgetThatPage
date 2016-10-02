@@ -14,11 +14,12 @@ Download it from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
 ### Unstable version
-- Download the "chrome" folder on your computer
+- Download the last release from https://github.com/cyril-we/ForgetThatPage/releases 
+- Unzip the archive to a folder
 - Go to "chrome://extensions/" on your Chromium/Google Chrome browser
 - Allow developer mode
 - Select "load unpacked extension"
-- Browse to the "chrome" folder
+- Browse to the folder previously created
 
 ## Versions
 ### Version 1.3.0 - Work In Progress
