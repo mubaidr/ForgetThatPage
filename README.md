@@ -22,7 +22,6 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Select "load unpacked extension"
 - Browse to the folder previously created
 
-
 ### <img src=".images/Firefox_icon.png" /> Firefox
 #### Stable version
 Download it from Mozilla add-ons:
@@ -38,6 +37,10 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 ## Versions
 ### Firefox version - Available since 03/10/2016 !
 - Converting Chrome v1.3.0 to Firefox
+
+### Version 1.3.1 - Work In Progress
+- Design changes for Firefox
+- Added Chinese
 
 ### Version 1.3.0 - 03/10/2016
 - Delete local storage
@@ -115,7 +118,7 @@ MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
 Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
-FilipinoRedditor, matmikus, mympuk
+FilipinoRedditor, matmikus, mympuk, sanyuanmilk
 
 Icon made by Freepik from www.flaticon.com
 
