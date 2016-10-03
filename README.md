@@ -35,7 +35,7 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 - Select the .xpi file downloaded
 
 ## Versions
-### Firefox version - Work In Progress
+### Firefox version - Available since 03/10/2016 !
 - Converting Chrome v1.3.0 to Firefox
 
 ### Version 1.3.0 - 03/10/2016
