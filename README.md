@@ -14,7 +14,7 @@ Download it from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
 ### Unstable version
-- Download the last release from https://github.com/cyril-we/ForgetThatPage/releases 
+- Download the last release from https://github.com/cyril-we/ForgetThatPage/releases
 - Unzip the archive to a folder
 - Go to "chrome://extensions/" on your Chromium/Google Chrome browser
 - Allow developer mode
@@ -27,7 +27,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Delete session storage
 - Popup closes after 1.5 seconds
 - Small design changes
-- Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish, Tagalog
+- Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish, Tagalog, Russian
 - Corrected German, Italian
 
 ### Version 1.2.5 - 30/09/2016
@@ -98,7 +98,7 @@ MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
 Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
-FilipinoRedditor, matmikus
+FilipinoRedditor, matmikus, mympuk
 
 Icon made by Freepik from www.flaticon.com
 
