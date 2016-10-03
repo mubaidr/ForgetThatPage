@@ -9,17 +9,29 @@ It's simple but useful, and also open source !
 
 ## How to use it
 
-### Stable version
+### Chrome
+#### Stable version
 Download it from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
-### Unstable version
+#### Unstable version
 - Download the last release from https://github.com/cyril-we/ForgetThatPage/releases
 - Unzip the archive to a folder
 - Go to "chrome://extensions/" on your Chromium/Google Chrome browser
 - Allow developer mode
 - Select "load unpacked extension"
 - Browse to the folder previously created
+
+### Firefox (Work In Progress)
+#### Stable version
+- Coming soon on Firefox Add-On "store"
+
+#### Unstable version
+- Download the last release (.xpi file) from https://github.com/cyril-we/ForgetThatPage/releases
+- Go to "about:addons"
+- Click on the gear (Tools for all add-ons)
+- Select "Install Add-on From File..."
+- Select the .xpi file downloaded
 
 ## Versions
 ### Firefox version - Work In Progress
