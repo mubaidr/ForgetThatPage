@@ -9,7 +9,7 @@ It's simple but useful, and also open source !
 
 ## How to use it
 
-### Chrome
+### Chrome <img src=".images/Chromium_icon.png" style="width:32px;height:32px;" />
 #### Stable version
 Download it from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
@@ -22,7 +22,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Select "load unpacked extension"
 - Browse to the folder previously created
 
-### Firefox
+### Firefox <img src=".images/Mozilla_Firefox_logo.svg" style="width:32px;height:32px;" />
 #### Stable version
 Download it from Mozilla add-ons:
 https://addons.mozilla.org/firefox/addon/forget-that-page/
