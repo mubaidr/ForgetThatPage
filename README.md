@@ -22,7 +22,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Browse to the folder previously created
 
 ## Versions
-### Version 1.3.0 - Work In Progress
+### Version 1.3.0 - 03/10/2016
 - Delete local storage
 - Delete session storage
 - Popup closes after 1.5 seconds
