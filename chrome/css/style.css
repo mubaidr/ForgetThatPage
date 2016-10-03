@@ -1,7 +1,7 @@
 /*
 # style.css
 #
-# v1.2
+# v1.2.1
 #
 # Cyril Weller
 # cyril.weller@protonmail.com
@@ -13,7 +13,7 @@
 body {
   background-color: #DADADA;
   margin: 0px 0px 0px 0px;
-  min-width: 90px; /* Seems great to display many languages correctly */
+  width: 90px; /* Seems great to display many languages correctly */
   background-image: url("../img/background.png"); /* Background pattern from subtlepatterns.com */
 }
 
