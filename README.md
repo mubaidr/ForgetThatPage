@@ -22,6 +22,9 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Browse to the folder previously created
 
 ## Versions
+### Firefox version - Work In Progress
+- Converting Chrome v1.3.0 to Firefox
+
 ### Version 1.3.0 - 03/10/2016
 - Delete local storage
 - Delete session storage

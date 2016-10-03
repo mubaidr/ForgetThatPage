@@ -1,0 +1,36 @@
+/*
+# style.css
+#
+# v1.2
+#
+# Cyril Weller
+# cyril.weller@protonmail.com
+#
+# GNU GPLv3 license
+#
+*/
+
+body {
+  background-color: #DADADA;
+  margin: 0px 0px 0px 0px;
+  min-width: 90px; /* Seems great to display many languages correctly */
+  background-image: url("../img/background.png"); /* Background pattern from subtlepatterns.com */
+}
+
+section {
+  background-color: #F9F9F9;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+div {
+  font-size: 10pt;
+  font-family: "Arial", Arial, sans-serif;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color:#424242;
+}
