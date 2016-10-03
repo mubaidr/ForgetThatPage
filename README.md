@@ -22,9 +22,10 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Select "load unpacked extension"
 - Browse to the folder previously created
 
-### Firefox (Work In Progress)
+### Firefox
 #### Stable version
-- Coming soon on Firefox Add-On "store"
+Download it from Mozilla add-ons:
+https://addons.mozilla.org/firefox/addon/forget-that-page/
 
 #### Unstable version
 - Download the last release (.xpi file) from https://github.com/cyril-we/ForgetThatPage/releases
