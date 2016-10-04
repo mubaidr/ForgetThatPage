@@ -61,7 +61,7 @@ Malay and Turkish
 
 <b> Thanks to all Reddit translators for their help</b>
 
-## Older versions notes are available in the Wiki section
+### Older versions notes are available in the Wiki section
 
 #### Note
 Minor version number is incremented when a new feature is added.
