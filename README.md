@@ -61,30 +61,7 @@ Malay and Turkish
 
 <b> Thanks to all Reddit translators for their help</b>
 
-### Version 1.2.3 - 28/09/2016
-- Default icon when tab is created
-- Use of messages.json for internationalization
-- Added Spanish (may be slightly incorrect)
-
-### Version 1.2.2 - 26/09/2016
-- Icon on the "chrome://extension" view
-- Code comments
-
-### Version 1.2.1 - 25/09/2016
-- Green icon when current page is not on the history
-- New description
-- Better file hierarchy
-- Slightly better design
-
-### Version 1.1.0 - 24/09/2016
-- Three-numbers versioning (major.minor.small change)
-- Display message from javascript
-- Message in French or English
-- Icon color change : green when deleted, back to normal when refresh or page change
-
-### Version 1.0 - 23/09/2016
-- Deletes the current page from history and displays a message
-- For Chromium/Google Chrome
+### Older versions notes are available in the Wiki section
 
 #### Note
 Minor version number is incremented when a new feature is added.
