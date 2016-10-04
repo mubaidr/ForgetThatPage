@@ -39,7 +39,7 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 - Converting Chrome v1.3.0 to Firefox
 
 ### Version 1.3.0.1 for Firefox- 04/10/2016
-- Design changes for Firefox
+- Design changes for Firefox (Note : old CSS seems OK for Firefox 51+)
 - Added Chinese
 
 ### Version 1.3.0 - 03/10/2016
