@@ -34,9 +34,17 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 - Select "Install Add-on From File..."
 - Select the .xpi file downloaded
 
+### Opera
+#### Stable version
+Coming soon on Opera add-ons
+
+#### Unstable version
+Same as Chrome version
+
 ## Versions
-### Firefox version - Available since 03/10/2016 !
-- Converting Chrome v1.3.0 to Firefox
+### Opera version - Available since 05/10/2016 !
+- Same as Chrome version (Opera is based on Chromium and accepts Chrome extensions)
+- Added Chinese 
 
 ### Version 1.3.0.2 for Firefox - 05/10/2016
 - Slightly better CSS
@@ -44,6 +52,9 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 ### Version 1.3.0.1 for Firefox - 04/10/2016
 - Design changes for Firefox (Note : old CSS seems OK for Firefox 51+)
 - Added Chinese
+
+### Firefox version - Available since 03/10/2016 !
+- Converting Chrome v1.3.0 to Firefox
 
 ### Version 1.3.0 - 03/10/2016
 - Delete local storage
@@ -73,10 +84,8 @@ Revision number is incremented when code is changed but no new feature is added.
 
 ## Incoming features
 - Delete more things (cookies... )
-- Better general design
+- Better design
 - More languages supported
-- Firefox version
-- (Blacklist option (delete automatically every page from a website))
 
 ## License
 This program is free software: you can redistribute it and/or modify
