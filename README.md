@@ -22,6 +22,10 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 - Select "load unpacked extension"
 - Browse to the folder previously created
 
+##### Note
+Vivaldi browser supports Chrome extensions, type "vivaldi://extensions" on your search bar.
+It's exactly like Chrome
+
 ### <img src=".images/Firefox_icon.png" /> Firefox (for version 49 and more)
 #### Stable version
 Download it from Mozilla add-ons:
@@ -36,7 +40,8 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 
 ### <img src=".images/Opera_icon.png" /> Opera
 #### Stable version
-Coming soon on Opera add-ons
+Download it from Opera add-ons:
+https://addons.opera.com/fr/extensions/details/forget-that-page/
 
 #### Unstable version
 Same as Chrome version
@@ -44,7 +49,7 @@ Same as Chrome version
 ## Versions
 ### Opera version - Available since 05/10/2016 !
 - Same as Chrome version (Opera is based on Chromium and accepts Chrome extensions)
-- Added Chinese 
+- Added Chinese
 
 ### Version 1.3.0.2 for Firefox - 05/10/2016
 - Slightly better CSS
