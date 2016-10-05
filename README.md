@@ -34,7 +34,7 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 - Select "Install Add-on From File..."
 - Select the .xpi file downloaded
 
-### Opera
+### <img src=".images/Opera_icon.png" /> Opera
 #### Stable version
 Coming soon on Opera add-ons
 
