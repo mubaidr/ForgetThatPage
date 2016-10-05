@@ -1,7 +1,7 @@
 /*
 # style.css
 #
-# v1.2.2
+# v1.2.3
 #
 # Cyril Weller
 # cyril.weller@protonmail.com
@@ -11,24 +11,25 @@
 */
 
 body {
-  background-color: #F9F9F9;
-  width: 140px; /* Seems great to display many languages correctly */
+  width: 140px;
   height: 90px;
   margin: 0px 0px 0px 0px;
-  /*background-image: url("../img/background.png");  Background pattern from subtlepatterns.com */
+  background-image: url("../img/background.png"); /* Background pattern from subtlepatterns.com */
 }
 
 section {
   background-color: #F9F9F9;
-  margin-left: 3px;
-  margin-right: 3px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  width : 134px;
+  height : 84px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 div {
-  font-size: 10pt;
   font-family: "Arial", Arial, sans-serif;
+  font-size: 10pt;
   padding-left: 5px;
   padding-right: 5px;
   padding-top: 5px;

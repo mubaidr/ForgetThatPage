@@ -55,6 +55,6 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
       // After 1.5 seconds, the popup closes itself
       setTimeout(function(){ window.close() },1500);
 
-  });
+	});
 
 });
