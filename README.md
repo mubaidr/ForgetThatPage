@@ -47,7 +47,7 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Versions
-### Version 1.3.1 - Work In Progress
+### Version 1.3.1 - 06/10/2016
 - Same version number for Chrome, Firefox and Opera
 - Added Japanese and Chinese for all versions
 
