@@ -47,6 +47,10 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Versions
+### Version 1.3.1 - Work In Progress
+- Same version number for Chrome, Firefox and Opera
+- Added Japanese and Chinese for all versions
+
 ### Opera version - Available since 05/10/2016 !
 - Same as Chrome version (Opera is based on Chromium and accepts Chrome extensions)
 - Added Chinese
@@ -112,7 +116,7 @@ MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
 Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
-FilipinoRedditor, matmikus, mympuk, sanyuanmilk
+FilipinoRedditor, matmikus, mympuk, sanyuanmilk, Eikha, Roughy
 
 Icon made by Freepik from www.flaticon.com
 
