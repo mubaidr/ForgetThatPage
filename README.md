@@ -24,7 +24,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ##### Note
 Vivaldi browser supports Chrome extensions, type "vivaldi://extensions" on your search bar.
-It's exactly like Chrome
+Installation is exactly like Chrome. Also, other browsers based on Chromium probably work the same way. 
 
 ### <img src=".images/Firefox_icon.png" /> Firefox (for version 49 and more)
 #### Stable version
