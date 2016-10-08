@@ -24,7 +24,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 
 ##### Note
 Vivaldi browser supports Chrome extensions, type "vivaldi://extensions" on your search bar.
-Installation is exactly like Chrome. Also, other browsers based on Chromium probably work the same way. 
+Installation is exactly like Chrome. Also, other browsers based on Chromium probably work the same way.
 
 ### <img src=".images/Firefox_icon.png" /> Firefox (for version 49 and more)
 #### Stable version
@@ -46,7 +46,15 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 #### Unstable version
 Same as Chrome version
 
+## Incoming features
+- Delete more things (cookies... )
+- Better design
+- More languages supported
+
 ## Versions
+### Version 1.3.2 - Work In Progress
+- Added Hindi, Bengali (Thanks to DreaMzZ), Afrikaans (Thanks to Grimmjow|LIVE)
+
 ### Version 1.3.1 - 06/10/2016
 - Same version number for Chrome, Firefox and Opera
 - Added Japanese and Chinese for all versions
@@ -91,11 +99,6 @@ Minor version number is incremented when a new feature is added.
 
 Revision number is incremented when code is changed but no new feature is added.
 
-## Incoming features
-- Delete more things (cookies... )
-- Better design
-- More languages supported
-
 ## License
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -116,7 +119,8 @@ MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
 sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
 Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
-FilipinoRedditor, matmikus, mympuk, sanyuanmilk, Eikha, Roughy
+FilipinoRedditor, matmikus, mympuk, sanyuanmilk, Eikha, Roughy, NoorEcube,
+RebbitDan
 
 Icon made by Freepik from www.flaticon.com
 
