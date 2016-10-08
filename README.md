@@ -121,7 +121,7 @@ sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
 Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
 Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
 FilipinoRedditor, matmikus, mympuk, sanyuanmilk, Eikha, Roughy, NoorEcube,
-RebbitDan
+studioidefix
 
 Icon made by Freepik from www.flaticon.com
 
