@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.3.2
+// v1.4
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -9,52 +9,86 @@
 // GNU GPLv3 license
 //
 
-// Url of the current active tab
-var currentUrl ;
-
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
   // Get url of the current active tab
-  currentUrl = tabs[0].url;
+  var currentUrl = tabs[0].url;
+
+  /******************/
+  /* DELETE HISTORY */
+  /******************/
 
   // Delete history for that url
   chrome.history.deleteUrl({
 
     url: currentUrl
 
-    }, function() {
+  }, function(){
 
-      // For http/https url
-      if (currentUrl.indexOf("http") !== -1) {
+    /************************************/
+    /* DELETE SESSION AND LOCAL STORAGE */
+    /************************************/
 
-        // Delete session storage for current url
-        chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
+    // For http/https url
+    if (currentUrl.indexOf("http") !== -1) {
 
-        // Delete local storage for current url
-        chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
+      // Delete session storage for current url
+      chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
+
+      // Delete local storage for current url
+      chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
+    }
+
+    /******************/
+    /* DELETE COOKIES */
+    /******************/
+
+    // Get all cookies for current url
+    chrome.cookies.getAll({
+
+      url: currentUrl
+
+    }, function(cookies) {
+
+      // For every cookie in the cookie list
+      for (i = 0; i < cookies.length; i++) {
+
+        // Remove the cookie
+        chrome.cookies.remove({
+
+          url: currentUrl,
+          name: cookies[i].name
+
+        }, function(){});
       }
 
-      // Get message for browser locale
-      var message = chrome.i18n.getMessage("websiteDeletedOK");
+    });
 
-      // Get navigator language
-      var userLang = navigator.language || navigator.userLanguage;
+    /*******************/
+    /* DISPLAY MESSAGE */
+    /*******************/
 
-      // If language is persian, arabic or hebrew,
-      // font-size is 11pt to be more readable
-      if (userLang == 'ar' || userLang == 'fa' || userLang == 'he') {
-        document.getElementById("returnText").setAttribute('style','font-size:11pt');
-      }
+    // Get navigator language
+    var userLang = navigator.language || navigator.userLanguage;
 
-      // Display message
-      document.getElementById("returnText").innerHTML = message;
+    // If language is persian, arabic or hebrew,
+    // font-size is 11pt to be more readable
+    if (userLang == 'ar' || userLang == 'fa' || userLang == 'he') {
+      document.getElementById("returnText").setAttribute('style','font-size:11pt');
+    }
 
-      // Change icon to really see it's ok
-      chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
+    // Get message for browser locale
+    var message = chrome.i18n.getMessage("websiteDeletedOK");
 
-      // After 1.5 seconds, the popup closes itself
-      setTimeout(function(){ window.close() },1500);
+    // Display message
+    document.getElementById("returnText").innerHTML = message;
 
-	});
+    // Change icon to really see it's ok
+    chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
+
+    // After 1.5 seconds, the popup closes itself
+    setTimeout(function(){ window.close() },1500);
+
+  });
 
 });

@@ -52,7 +52,8 @@ Same as Chrome version
 - More languages supported
 
 ## Versions
-### Version 1.3.2 - Work In Progress
+### Version 1.4.0 - Work In Progress
+- Delete cookies
 - Added Hindi, Bengali (Thanks to DreaMzZ), Afrikaans (Thanks to Grimmjow|LIVE)
 
 ### Version 1.3.1 - 06/10/2016
