@@ -1,4 +1,4 @@
-# <img src="chromium/img/icon/swipe32.png" /> Forget That Page  
+# <img src="chromium/img/icon/swipe48.png" /> Forget That Page  
 We all at some point ended up on a webpage that we don't want to appear on our browsing history. Either it's for a gift, or a dumb page...
 
 With "Forget That Page", you can delete from your history the webpage you're on, just in one click !
