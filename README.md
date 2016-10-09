@@ -5,6 +5,8 @@ With "Forget That Page", you can delete from your history the webpage you're on,
 
 It's simple but useful, and also open source !
 
+Here is a review from ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/
+
 <img src=".images/forget-that-page-view.png" width="640" height="400"/>
 
 ## How to use it
