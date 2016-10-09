@@ -9,8 +9,10 @@ It's simple but useful, and also open source !
 <img src=".images/forget-that-page-view.png" width="640" height="400"/>
 
 ## Articles about the extension
-<p> http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
-<p> http://technewshunter.com/security/remove-browsing-traces-with-forget-that-page-26195/ </p>
+Here are two articles that were written about the extension :
+
+<p> ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
+<p> technewshunter.com : http://technewshunter.com/security/remove-browsing-traces-with-forget-that-page-26195/ </p>
 
 ## How to use it
 
