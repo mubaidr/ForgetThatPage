@@ -55,6 +55,7 @@ Same as Chrome version
 
 ## Incoming features
 - Delete search history if possible
+- Adapt icon to dark themes if possible
 - Better design
 - More languages supported
 
