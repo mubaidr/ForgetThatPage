@@ -47,12 +47,12 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Incoming features
-- Delete more things (cookies... )
+- Delete search history if possible
 - Better design
 - More languages supported
 
 ## Versions
-### Version 1.4.0 - Work In Progress
+### Version 1.4.0 - 09/10/2016
 - Delete cookies
 - Added Hindi, Bengali (Thanks to DreaMzZ), Afrikaans (Thanks to Grimmjow|LIVE)
 
