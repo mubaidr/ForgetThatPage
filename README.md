@@ -17,6 +17,9 @@ Here are some articles that were written about the extension :
 <p> redeszone.net : http://www.redeszone.net/2016/10/09/forget-that-page-complemento-navegadores-web-elimina-huella/ </p>
 <p> adslzone.net : http://www.adslzone.net/2016/10/07/forget-that-page-la-extension-te-cubre-cuando-falla-modo-incognito/ </p>
 <p> ilovefreesoftware.com : http://www.ilovefreesoftware.com/08/windows/internet/plugins/remove-browsing-history-for-current-page-on-chrome-and-firefox.html </p>
+<p> seo-michael.co.uk : https://seo-michael.co.uk/forget-that-page-for-chrome/ </p>
+
+<b> Thanks to all the persons that wrote those articles ! </b>
 
 ## How to use it
 
