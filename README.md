@@ -19,7 +19,7 @@ Here are some articles that were written about the extension :
 <p> ilovefreesoftware.com : http://www.ilovefreesoftware.com/08/windows/internet/plugins/remove-browsing-history-for-current-page-on-chrome-and-firefox.html </p>
 <p> seo-michael.co.uk : https://seo-michael.co.uk/forget-that-page-for-chrome/ </p>
 
-<b> Thanks to all the persons that wrote those articles ! </b>
+<b> Thanks to all the persons who wrote those articles ! </b>
 
 ## How to use it
 
