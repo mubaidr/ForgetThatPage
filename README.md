@@ -9,15 +9,10 @@ It's simple but useful, and also open source !
 <img src=".images/forget-that-page-view.png" width="640" height="400"/>
 
 ## Articles about the extension
-Here are some articles that were written about the extension :
+Here are some articles that were written about the extension, all the articles are available in the Wiki section:
 
 <p> techcollecto.com : http://www.techcollecto.com/2016/10/05/delete-history-current-webpage-in-one-click-firefox-add-on/ </p>
-<p> softzone.es : http://www.softzone.es/2016/10/05/borra-cualquier-rastro-sitio-web-visitado-desde-firefox-clic/ </p>
 <p> ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
-<p> technewshunter.com : http://technewshunter.com/security/remove-browsing-traces-with-forget-that-page-26195/ </p>
-<p> redeszone.net : http://www.redeszone.net/2016/10/09/forget-that-page-complemento-navegadores-web-elimina-huella/ </p>
-<p> adslzone.net : http://www.adslzone.net/2016/10/07/forget-that-page-la-extension-te-cubre-cuando-falla-modo-incognito/ </p>
-<p> ilovefreesoftware.com : http://www.ilovefreesoftware.com/08/windows/internet/plugins/remove-browsing-history-for-current-page-on-chrome-and-firefox.html </p>
 <p> seo-michael.co.uk : https://seo-michael.co.uk/forget-that-page-for-chrome/ </p>
 
 <b> Thanks to all the persons who wrote those articles ! </b>
@@ -97,15 +92,6 @@ Same as Chrome version
 - Small design changes
 - Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish, Tagalog, Russian
 - Corrected German, Italian
-
-### Version 1.2.5 - 30/09/2016
-- Better manifest.json
-- Small design changes
-- New icon on the Chrome Store
-- Corrected Spanish
-- Added Korean, Dutch, Esperanto, Romanian, Italian, Polish,
-Portuguese (Brazil), Persian, Arabic, Danish, German, Hebrew,
-Malay and Turkish
 
 <b> Thanks to all Reddit translators for their help</b>
 
