@@ -9,7 +9,7 @@ It's simple but useful, and also open source !
 <img src=".images/forget-that-page-view.png" width="640" height="400"/>
 
 ## Articles about the extension
-Here are two articles that were written about the extension :
+Here are some articles that were written about the extension :
 
 <p> techcollecto.com : http://www.techcollecto.com/2016/10/05/delete-history-current-webpage-in-one-click-firefox-add-on/ </p>
 <p> ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
