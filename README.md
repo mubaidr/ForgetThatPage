@@ -12,6 +12,7 @@ It's simple but useful, and also open source !
 Here are some articles that were written about the extension :
 
 <p> techcollecto.com : http://www.techcollecto.com/2016/10/05/delete-history-current-webpage-in-one-click-firefox-add-on/ </p>
+<p> softzone.es : http://www.softzone.es/2016/10/05/borra-cualquier-rastro-sitio-web-visitado-desde-firefox-clic/ </p>
 <p> ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
 <p> technewshunter.com : http://technewshunter.com/security/remove-browsing-traces-with-forget-that-page-26195/ </p>
 <p> redeszone.net : http://www.redeszone.net/2016/10/09/forget-that-page-complemento-navegadores-web-elimina-huella/ </p>
