@@ -57,12 +57,16 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Incoming features
+- Option page
 - Delete search history if possible
 - Adapt icon to dark themes if possible
 - Better design
 - More languages supported
 
 ## Versions
+### Version 1.5.0 - Work In Progress
+- Option page
+
 ### Version 1.4.0 - 09/10/2016
 - Delete cookies
 - Added Hindi, Bengali (Thanks to DreaMzZ), Afrikaans (Thanks to Grimmjow|LIVE)
