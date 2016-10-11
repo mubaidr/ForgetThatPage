@@ -5,9 +5,7 @@ With "Forget That Page", you can delete from your history the webpage you're on,
 
 It's simple but useful, and also open source !
 
-
 <img src=".images/forget-that-page-view.png" width="640" height="400"/>
-
 
 ## Table of contents
 
@@ -15,8 +13,8 @@ It's simple but useful, and also open source !
 * [How to use it](#how-to-use-it)
 * [Incoming features](#incoming-features)
 * [Versioning](#versioning)
-* [Copyright and license](#copyright-and-license)
 * [References](#references)
+* [Copyright and license](#copyright-and-license)
 
 ## Articles about the extension
 Here are some articles that were written about the extension, all the articles are available in the Wiki section:
@@ -115,6 +113,19 @@ Minor version number is incremented when a new feature is added.
 
 Revision number is incremented when code is changed but no new feature is added.
 
+## References
+Thanks to all the following reddit translators for their help:
+MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
+sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
+Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
+Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
+FilipinoRedditor, matmikus, mympuk, sanyuanmilk, Eikha, Roughy, NoorEcube,
+studioidefix
+
+Icon made by Freepik from www.flaticon.com
+
+Background pattern from www.subtlepatterns.com
+
 ## Copyright and License
 
 Copyright (c) 2016, Cyril Weller
@@ -131,16 +142,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-## References
-Thanks to all the following reddit translators for their help:
-MattOnADinosaur, akroe, Kamparano, gabi_never08, amityvision, Trucoto,
-sarveil, rararaw21, klingy_koala, coriandres, Terpomo11, cmuffy195,
-Graeskmoent, Kazumara, Huskar, lookmanofilter, Cestus44, NigelDuckrag,
-Emmison, ledenicaj, owain2002, Boothiepro, Eetsi123, CuddlyBeaver,
-FilipinoRedditor, matmikus, mympuk, sanyuanmilk, Eikha, Roughy, NoorEcube,
-studioidefix
-
-Icon made by Freepik from www.flaticon.com
-
-Background pattern from www.subtlepatterns.com
