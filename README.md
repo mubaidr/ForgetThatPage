@@ -15,7 +15,7 @@ It's simple but useful, and also open source !
 * [How to use it](#how-to-use-it)
 * [Incoming features](#incoming-features)
 * [Versioning](#versioning)
-* [License](#copyright-and-license)
+* [Copyright and license](#copyright-and-license)
 * [References](#references)
 
 ## Articles about the extension
