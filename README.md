@@ -8,6 +8,16 @@ It's simple but useful, and also open source !
 
 <img src=".images/forget-that-page-view.png" width="640" height="400"/>
 
+
+## Table of contents
+
+* [Articles about the extension](#quick-start)
+* [How to use it](#how-to-use-it)
+* [Incoming features](#incoming-features)
+* [Versioning](#versioning)
+* [License](#copyright-and-license)
+* [References](#references)
+
 ## Articles about the extension
 Here are some articles that were written about the extension, all the articles are available in the Wiki section:
 
@@ -62,7 +72,7 @@ Same as Chrome version
 - Better design
 - More languages supported
 
-## Versions
+## Versioning
 ### Version 1.5.0 - Work In Progress
 - Options page
 
@@ -105,7 +115,10 @@ Minor version number is incremented when a new feature is added.
 
 Revision number is incremented when code is changed but no new feature is added.
 
-## License
+## Copyright and License
+
+Copyright (c) 2016, Cyril Weller
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
