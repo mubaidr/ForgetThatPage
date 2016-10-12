@@ -22,6 +22,7 @@ Here are some articles that were written about the extension, all the articles a
 <p> techcollecto.com : http://www.techcollecto.com/2016/10/05/delete-history-current-webpage-in-one-click-firefox-add-on/ </p>
 <p> ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
 <p> seo-michael.co.uk : https://seo-michael.co.uk/forget-that-page-for-chrome/ </p>
+<p> apprcn.com : http://www.apprcn.com/forget-that-page.html </p>
 
 <b> Thanks to all the persons who wrote those articles ! </b>
 
