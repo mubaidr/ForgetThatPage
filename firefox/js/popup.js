@@ -1,13 +1,27 @@
 //
 // popup.js
 //
-// v1.4
+// v1.5
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
 //
 // GNU GPLv3 license
 //
+
+var pageCookies;
+var pageLocalStorage;
+var pageSessionStorage;
+
+chrome.storage.sync.get({
+  cookies: true,
+  localStorage: true,
+  sessionStorage: true
+}, function(items) {
+  pageCookies = items.cookies ;
+  pageLocalStorage  = items.localStorage ;
+  pageSessionStorage = items.sessionStorage ;
+});
 
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
@@ -29,40 +43,52 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
     /* DELETE SESSION AND LOCAL STORAGE */
     /************************************/
 
-    // For http/https url
+    // For http/https urlif option value is true
     if (currentUrl.indexOf("http") !== -1) {
+      if (pageSessionStorage) {
+        // Log into console, for testing
+        alert("delete sessionStorage");
+        chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
+      }
 
-      // Delete session storage for current url
-      chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
-
-      // Delete local storage for current url
-      chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
+      // Delete local storage for current url if option value is true
+      if (pageLocalStorage) {
+        // Log into console, for testing
+        alert("delete localStorage");
+        chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
+      }
     }
 
     /******************/
     /* DELETE COOKIES */
     /******************/
 
-    // Get all cookies for current url
-    chrome.cookies.getAll({
+    // Delete cookies if option value is true
+    if (pageCookies){
 
-      url: currentUrl
+      // Log into console, for testing
+      alert("delete cookies");
+      // Get all cookies for current url
+      chrome.cookies.getAll({
 
-    }, function(cookies) {
+        url: currentUrl
 
-      // For every cookie in the cookie list
-      for (i = 0; i < cookies.length; i++) {
+      }, function(cookies) {
 
-        // Remove the cookie
-        chrome.cookies.remove({
+        // For every cookie in the cookie list
+        for (i = 0; i < cookies.length; i++) {
 
-          url: currentUrl,
-          name: cookies[i].name
+          // Remove the cookie
+          chrome.cookies.remove({
 
-        }, function(){});
-      }
+            url: currentUrl,
+            name: cookies[i].name
 
-    });
+          }, function(){});
+        }
+
+      });
+    }
 
     /*******************/
     /* DISPLAY MESSAGE */
