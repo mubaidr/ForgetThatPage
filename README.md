@@ -33,12 +33,12 @@ Download it from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
 #### Unstable version
-- Download the last release from https://github.com/cyril-we/ForgetThatPage/releases
-- Unzip the archive to a folder
-- Go to "chrome://extensions/" on your Chromium/Google Chrome browser
-- Allow developer mode
-- Select "load unpacked extension"
-- Browse to the folder previously created
+* Download the last release from https://github.com/cyril-we/ForgetThatPage/releases
+* Unzip the archive to a folder
+* Go to "chrome://extensions/" on your Chromium/Google Chrome browser
+* Allow developer mode
+* Select "load unpacked extension"
+* Browse to the folder previously created
 
 ##### Note
 Vivaldi browser supports Chrome extensions, type "vivaldi://extensions" on your search bar.
@@ -50,11 +50,11 @@ Download it from Mozilla add-ons:
 https://addons.mozilla.org/firefox/addon/forget-that-page/
 
 #### Unstable version
-- Download the last release (.xpi file) from https://github.com/cyril-we/ForgetThatPage/releases
-- Go to "about:addons"
-- Click on the gear (Tools for all add-ons)
-- Select "Install Add-on From File..."
-- Select the .xpi file downloaded
+* Download the last release (.xpi file) from https://github.com/cyril-we/ForgetThatPage/releases
+* Go to "about:addons"
+* Click on the gear (Tools for all add-ons)
+* Select "Install Add-on From File..."
+* Select the .xpi file downloaded
 
 ### <img src=".images/Opera_icon.png" /> Opera
 #### Stable version
@@ -65,45 +65,45 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Incoming features
-- Delete search history if possible
-- Adapt icon to dark themes if possible
-- Better design
-- More languages supported
+* Delete search history if possible
+* Adapt icon to dark themes if possible
+* Better design
+* More languages supported
 
 ## Versioning
 ### Version 1.5.0 - Work In Progress
-- Options page. By default everything is deleted, it allows the user not to delete
-cookies and/or sessionStorage and/or localStorage.
+* Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage.
+* Added Vietnamese and Norwegian (translation from Gengo)
 
 ### Version 1.4.0 - 09/10/2016
-- Delete cookies
-- Added Hindi, Bengali (Thanks to DreaMzZ), Afrikaans (Thanks to Grimmjow|LIVE)
+* Delete cookies
+* Added Hindi, Bengali (Thanks to DreaMzZ), Afrikaans (Thanks to Grimmjow|LIVE)
 
 ### Version 1.3.1 - 06/10/2016
-- Same version number for Chrome, Firefox and Opera
-- Added Japanese and Chinese for all versions
+* Same version number for Chrome, Firefox and Opera
+* Added Japanese and Chinese for all versions
 
 ### Opera version - Available since 05/10/2016 !
-- Same as Chrome version (Opera is based on Chromium and accepts Chrome extensions)
-- Added Chinese
+* Same as Chrome version (Opera is based on Chromium and accepts Chrome extensions)
+* Added Chinese
 
 ### Version 1.3.0.2 for Firefox - 05/10/2016
-- Slightly better CSS
+* Slightly better CSS
 
 ### Version 1.3.0.1 for Firefox - 04/10/2016
-- Design changes for Firefox (Note : old CSS seems OK for Firefox 51+)
-- Added Chinese
+* Design changes for Firefox (Note : old CSS seems OK for Firefox 51+)
+* Added Chinese
 
 ### Firefox version - Available since 03/10/2016 !
-- Converting Chrome v1.3.0 to Firefox
+* Converting Chrome v1.3.0 to Firefox
 
 ### Version 1.3.0 - 03/10/2016
-- Delete local storage
-- Delete session storage
-- Popup closes after 1.5 seconds
-- Small design changes
-- Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish, Tagalog, Russian
-- Corrected German, Italian
+* Delete local storage
+* Delete session storage
+* Popup closes after 1.5 seconds
+* Small design changes
+* Added Swedish, Serbian, Welsh, Slovak, Hungarian, Czech, Finnish, Tagalog, Russian
+* Corrected German, Italian
 
 <b> Thanks to all Reddit translators for their help</b>
 
