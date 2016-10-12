@@ -1,5 +1,21 @@
 {
   "websiteDeletedOK": {
     "message": "Diese Seite wurde erfolgreich aus Ihrem Browserverlauf gelöscht"
+  },
+
+  "cookieMessage": {
+    "message": "Cookies"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Session-spezifische speicherung"
+  },
+
+  "localStorageMessage": {
+    "message": "Lokale speicherung"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Optionen gespeichert"
   }
 }
