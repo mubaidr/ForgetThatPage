@@ -72,7 +72,8 @@ Same as Chrome version
 
 ## Versioning
 ### Version 1.5.0 - Work In Progress
-- Options page
+- Options page. By default everything is deleted, it allows the user not to delete
+cookies and/or sessionStorage and/or localStorage.
 
 ### Version 1.4.0 - 09/10/2016
 - Delete cookies
