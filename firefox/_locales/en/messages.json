@@ -17,5 +17,9 @@
 
   "optionsSavedMessage": {
     "message": "Options saved"
+  },
+
+  "blacklistMessage": {
+    "message": "Blacklist"
   }
 }
