@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "이 페이지는 성공적으로 인터넷 사용 기록에서  <br/> 삭제되었다"
+  },
+
+   "cookieMessage": {
+    "message": "쿠키"
   }
 }

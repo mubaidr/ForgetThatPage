@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "Die blad was suksesvol uit jou soek geskiedenis verwis"
+  },
+
+   "cookieMessage": {
+    "message": "Koekies"
   }
 }

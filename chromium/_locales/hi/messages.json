@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "यह पृष्ठ आपके ब्राउज़िंग इतिहास से मिटादिया गया हैं"
+  },
+
+   "cookieMessage": {
+    "message": "स्मृतिशेष"
   }
 }

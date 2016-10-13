@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "דף זה נמחק בהצלחה מהיסטוריית הגלישה שלך"
+  },
+
+   "cookieMessage": {
+    "message": "עוגיות"
   }
 }

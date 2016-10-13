@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "این صفحه با موفقیت از سابقه بازدید مرورگر شما پاک شد"
+  },
+
+   "cookieMessage": {
+    "message": "کوکی اچ‌تی‌تی‌پی"
   }
 }

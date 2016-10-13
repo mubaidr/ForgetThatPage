@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "تم حذف هذه الصفحة من تاريخ التصفح بنجاح"
+  },
+
+   "cookieMessage": {
+    "message": "ملف تعريف ارتباط"
   }
 }
