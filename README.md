@@ -66,6 +66,7 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Incoming features
+* Blacklist : when a page is deleted, the url is added to an encrypted blacklist. After that, this page's data is always deleted. This option can be deleted from options panel
 * Delete search history if possible
 * Adapt icon to dark themes if possible
 * Better design
