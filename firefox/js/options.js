@@ -1,13 +1,21 @@
 //
 // options.js
 //
-// v1.0.0
+// v1.1.0
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
 //
 // GNU GPLv3 license
 //
+
+// Get messages for options
+var cookieMessage = chrome.i18n.getMessage("cookieMessage");
+var localStorageMessage = chrome.i18n.getMessage("localStorageMessage");
+var sessionStorageMessage = chrome.i18n.getMessage("sessionStorageMessage");
+document.getElementById("cookieMessage").innerHTML = cookieMessage;
+document.getElementById("localStorageMessage").innerHTML = localStorageMessage;
+document.getElementById("sessionStorageMessage").innerHTML = sessionStorageMessage;
 
 // Saves options to chrome.storage.sync.
 function save_options() {
@@ -16,7 +24,7 @@ function save_options() {
   var localStorage = document.getElementById('localStorage').checked;
   var sessionStorage = document.getElementById('sessionStorage').checked;
 
-  chrome.storage.sync.set({
+  chrome.storage.local.set({
     cookies: cookies,
     localStorage: localStorage,
     sessionStorage: sessionStorage
@@ -24,7 +32,7 @@ function save_options() {
 
     // Update status to let user know options were saved.
     var status = document.getElementById('status');
-    status.textContent = 'Options saved.';
+    status.textContent = chrome.i18n.getMessage("optionsSavedMessage");
 
     setTimeout(function() {
       status.textContent = '';
@@ -37,7 +45,7 @@ function save_options() {
 // stored in chrome.storage.
 function restore_options() {
 
-  chrome.storage.sync.get({
+  chrome.storage.local.get({
     cookies: true,
     localStorage: true,
     sessionStorage: true

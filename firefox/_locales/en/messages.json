@@ -1,5 +1,21 @@
 {
   "websiteDeletedOK": {
     "message": "This page was successfully deleted from your browsing history"
+  },
+
+   "cookieMessage": {
+    "message": "Cookies"
+  },
+
+   "sessionStorageMessage": {
+    "message": "Session storage"
+  },
+
+   "localStorageMessage": {
+    "message": "Local storage"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Options saved"
   }
 }

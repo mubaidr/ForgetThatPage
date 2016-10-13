@@ -13,7 +13,7 @@ var pageCookies;
 var pageLocalStorage;
 var pageSessionStorage;
 
-chrome.storage.sync.get({
+chrome.storage.local.get({
   cookies: true,
   localStorage: true,
   sessionStorage: true
@@ -45,16 +45,13 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 
     // For http/https urlif option value is true
     if (currentUrl.indexOf("http") !== -1) {
+
       if (pageSessionStorage) {
-        // Log into console, for testing
-        alert("delete sessionStorage");
         chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
       }
 
       // Delete local storage for current url if option value is true
       if (pageLocalStorage) {
-        // Log into console, for testing
-        alert("delete localStorage");
         chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
       }
     }
@@ -66,8 +63,6 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
     // Delete cookies if option value is true
     if (pageCookies){
 
-      // Log into console, for testing
-      alert("delete cookies");
       // Get all cookies for current url
       chrome.cookies.getAll({
 

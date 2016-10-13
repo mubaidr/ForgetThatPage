@@ -9,6 +9,7 @@
   <head>
     <meta charset="utf-8"/>
     <title> Forget That page - Options </title>
+    <link rel="stylesheet" href="css/options.css" type="text/css" media="screen"/>
   </head>
 
   <!-- Html body -->
@@ -19,30 +20,27 @@
     <p>
       <label>
         <input type="checkbox" id="cookies" checked="true">
-        Cookies
+        <span id="cookieMessage"></span>
       </label>
     </p>
 
     <p>
       <label>
         <input type="checkbox" id="localStorage" checked="true">
-        Local Storage
+        <span id="localStorageMessage"></span>
       </label>
     </p>
 
     <p>
       <label>
         <input type="checkbox" id="sessionStorage" checked="true">
-        Session Storage
+        <span id="sessionStorageMessage"></span>
       </label>
     </p>
 
     <p><div id="status"></div></p>
-
-    <button id="save">Save</button>
-
+    <button id="save"> OK </button>
     <script src="js/options.js"></script>
-
   </body>
 
 </html>
