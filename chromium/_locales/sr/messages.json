@@ -1,5 +1,13 @@
 {
   "websiteDeletedOK": {
     "message": "Ова страница је успешно обрисана из историје вашег претраживача"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Sesiono skladište"
+  },
+
+  "localStorageMessage": {
+    "message": "Lokalno skladište"
   }
 }

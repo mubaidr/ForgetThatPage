@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "Bu sayfa tarama geçmişinizden başarıyla silinmiştir"
+  },
+
+  "cookieMessage": {
+    "message": "Çerez"
   }
 }

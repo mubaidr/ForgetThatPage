@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "Esta página fue eliminada con éxito del historial del navegador"
+  },
+
+  "blacklistMessage": {
+    "message": "Lista negra"
   }
 }

@@ -1,5 +1,13 @@
 {
   "websiteDeletedOK": {
     "message": "该页面已成功从你的浏览历史中删除"
+  },
+
+  "sessionStorageMessage": {
+    "message": "会话储存"
+  },
+
+  "localStorageMessage": {
+    "message": "本地储存"
   }
 }

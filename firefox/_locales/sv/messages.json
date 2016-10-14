@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
      "message": "Sidan har tagits bort från din webbläsarhistorik"
+   },
+
+    "cookieMessage": {
+     "message": "Webbkaka"
    }
  }

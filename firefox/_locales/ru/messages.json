@@ -1,5 +1,17 @@
 {
   "websiteDeletedOK": {
     "message": "Эта страница была удалена из вашей истории посещений"
+  },
+
+   "cookieMessage": {
+    "message": "Ку́ки"
+  },
+
+  "sessionStorageMessage": {
+    "message": "сессионное хранилище"
+  },
+
+  "localStorageMessage": {
+    "message": "локальное хранилище"
   }
 }
