@@ -13,5 +13,9 @@
 
   "localStorageMessage": {
     "message": "локальное хранилище"
+  },
+
+  "blacklistMessage": {
+    "message": "черный список"
   }
 }

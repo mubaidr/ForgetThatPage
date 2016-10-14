@@ -5,5 +5,9 @@
 
    "cookieMessage": {
     "message": "쿠키"
+  },
+
+  "blacklistMessage": {
+    "message": "블랙리스트"
   }
 }

@@ -3,8 +3,20 @@
     "message": "Die blad was suksesvol uit jou soek geskiedenis verwis"
   },
 
-   "cookieMessage": {
+  "sessionStorageMessage": {
+   "message": "Sessie stoor"
+  },
+
+  "localStorageMessage": {
+   "message": "Plaaslike stoor"
+  },
+
+  "cookieMessage": {
     "message": "Koekies"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opsies gered"
   },
 
   "blacklistMessage": {

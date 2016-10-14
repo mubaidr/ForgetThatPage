@@ -4,10 +4,14 @@
   },
 
   "sessionStorageMessage": {
-    "message": "Sesiono skladište"
+    "message": "седница складиштење"
   },
 
   "localStorageMessage": {
-    "message": "Lokalno skladište"
+    "message": "локално складиште"
+  },
+
+  "blacklistMessage": {
+    "message": "ставити на црну листу"
   }
 }

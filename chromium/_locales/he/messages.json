@@ -5,5 +5,9 @@
 
    "cookieMessage": {
     "message": "עוגיות"
+  },
+
+  "blacklistMessage": {
+    "message": "רשימה שחורה"
   }
 }
