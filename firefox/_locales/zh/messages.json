@@ -13,5 +13,9 @@
 
   "localStorageMessage": {
     "message": "本地储存"
+  },
+
+  "blacklistMessage": {
+    "message": "黑名单"
   }
 }

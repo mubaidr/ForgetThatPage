@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "Denne side er blevet fjernet fra din browserhistorik"
+  },
+
+  "blacklistMessage": {
+    "message": "Sortliste"
   }
 }

@@ -3,11 +3,19 @@
     "message": "该页面已成功从你的浏览历史中删除"
   },
 
+   "cookieMessage": {
+    "message": "小甜餅"
+  },
+
   "sessionStorageMessage": {
     "message": "会话储存"
   },
 
   "localStorageMessage": {
     "message": "本地储存"
+  },
+
+  "blacklistMessage": {
+    "message": "黑名单"
   }
 }

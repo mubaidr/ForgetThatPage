@@ -5,5 +5,9 @@
 
    "cookieMessage": {
     "message": "ملف تعريف ارتباط"
+  },
+
+  "blacklistMessage": {
+    "message": "القائمة السوداء"
   }
 }

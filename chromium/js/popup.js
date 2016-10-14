@@ -28,6 +28,16 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
   // Get url of the current active tab
   var currentUrl = tabs[0].url;
 
+
+
+  chrome.storage.sync.set({
+    cookies: cookies,
+    localStorage: localStorage,
+    sessionStorage: sessionStorage
+  }, function() {
+
+  }
+
   /******************/
   /* DELETE HISTORY */
   /******************/
