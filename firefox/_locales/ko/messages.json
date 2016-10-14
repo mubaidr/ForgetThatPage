@@ -7,6 +7,18 @@
     "message": "쿠키"
   },
 
+  "sessionStorageMessage": {
+    "message": "세션 저장"
+  },
+
+  "localStorageMessage": {
+    "message": "로컬 스토리지"
+  },
+
+  "optionsSavedMessage": {
+    "message": "옵션 저장"
+  },
+
   "blacklistMessage": {
     "message": "블랙리스트"
   }

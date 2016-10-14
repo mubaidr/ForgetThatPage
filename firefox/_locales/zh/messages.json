@@ -15,6 +15,10 @@
     "message": "本地储存"
   },
 
+  "optionsSavedMessage": {
+    "message": "选项已保存"
+  },
+
   "blacklistMessage": {
     "message": "黑名单"
   }
