@@ -66,16 +66,17 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Incoming features
-* Blacklist if possible
-* Delete search history if possible
-* Adapt icon to dark themes if possible
-* Better design
-* More languages supported
+* If possible :
+    - Blacklist
+    - Delete search history
+    - Adapt icon to dark themes
+* (Better design)
+* (More languages supported)
 
 ## Versioning
 ### Version 1.5.0 - Work In Progress
 * Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage.
-* Added Vietnamese and Norwegian (translation from Gengo)
+* Added Norwegian, Vietnamese, Bulgarian, Greek, Ukrainian and Thai. (translation from https://gengo.com/)
 * Changed green icon
 
 ### Version 1.4.0 - 09/10/2016
