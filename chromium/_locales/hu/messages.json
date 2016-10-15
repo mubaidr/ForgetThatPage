@@ -1,9 +1,5 @@
 {
   "websiteDeletedOK": {
     "message": "Ez az oldal sikeresen törölve lett a böngészési elözmenyeiböl"
-  },
-
-  "blacklistMessage": {
-    "message": "Feketelista"
   }
 }

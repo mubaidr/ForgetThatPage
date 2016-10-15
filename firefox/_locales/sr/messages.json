@@ -9,9 +9,5 @@
 
   "localStorageMessage": {
     "message": "локално складиште"
-  },
-
-  "blacklistMessage": {
-    "message": "ставити на црну листу"
   }
 }

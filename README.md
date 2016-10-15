@@ -66,23 +66,16 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Incoming features
-* Blacklist : when a page is deleted, the url is added to an encrypted blacklist. After that, this page's data is always deleted. This option can be deleted from options panel
+* Blacklist if possible
 * Delete search history if possible
 * Adapt icon to dark themes if possible
 * Better design
 * More languages supported
 
 ## Versioning
-### Version 2.0.0 - Work In Progress
-* Blacklist : when a page is deleted, the url is added to an encrypted blacklist. After that, this page's data is always deleted. This option can be deleted from options panel
+### Version 1.5.0 - Work In Progress
 * Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage.
 * Added Vietnamese and Norwegian (translation from Gengo)
-
-#### Why Version 2 ?
-In version 1, the user could not control anything. In version 2, it will be possible to change some options.
-Also, I will add a blacklist option (active by default but can be turned off) that will automatically delete traces
-if one of the list's pages is visited.
-Those are big changes in the extension, that's why it seems logical to release it as a new major version.
 
 ### Version 1.4.0 - 09/10/2016
 * Delete cookies

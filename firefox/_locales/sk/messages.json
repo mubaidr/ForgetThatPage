@@ -1,9 +1,5 @@
 {
   "websiteDeletedOK": {
     "message": "Táto stránka bola úspešne odstránená z vašej prehliadavacej histórie"
-  },
-
-  "blacklistMessage": {
-    "message": "čierna listina"
   }
 }

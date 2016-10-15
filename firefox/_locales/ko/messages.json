@@ -17,9 +17,5 @@
 
   "optionsSavedMessage": {
     "message": "옵션 저장"
-  },
-
-  "blacklistMessage": {
-    "message": "블랙리스트"
   }
 }

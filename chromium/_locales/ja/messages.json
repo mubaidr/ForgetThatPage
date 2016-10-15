@@ -1,9 +1,5 @@
 {
   "websiteDeletedOK": {
     "message": "このサイトはあなたの閲覧履歴から削除されました。"
-  },
-
-  "blacklistMessage": {
-    "message": "ブラックリスト"
   }
 }

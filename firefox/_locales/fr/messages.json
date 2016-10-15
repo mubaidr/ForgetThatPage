@@ -17,9 +17,5 @@
 
   "optionsSavedMessage": {
     "message": "Options sauvegardées"
-  },
-
-  "blacklistMessage": {
-    "message": "Liste noire"
   }
 }
