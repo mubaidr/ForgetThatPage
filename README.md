@@ -76,6 +76,7 @@ Same as Chrome version
 ### Version 1.5.0 - Work In Progress
 * Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage.
 * Added Vietnamese and Norwegian (translation from Gengo)
+* Changed green icon
 
 ### Version 1.4.0 - 09/10/2016
 * Delete cookies

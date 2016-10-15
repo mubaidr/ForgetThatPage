@@ -40,7 +40,7 @@ chrome.tabs.onActivated.addListener(function(tabs) {
       // If counter is zero,
       // it means current url is not in history, so icon is green
       if (ctr == 0){
-        chrome.browserAction.setIcon({path:"img/swipe-done.png"});
+        chrome.browserAction.setIcon({path:"img/icon/swipe_done128.png"});
 
       // Else, icon returns to original state
       } else {

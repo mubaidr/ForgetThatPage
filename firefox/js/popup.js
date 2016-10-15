@@ -105,7 +105,7 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
     document.getElementById("returnText").innerHTML = message;
 
     // Change icon to really see it's ok
-    chrome.browserAction.setIcon({ path:"img/swipe-done.png" });
+    chrome.browserAction.setIcon({ path:"img/icon/swipe_done128.png" });
 
     // After 1.5 seconds, the popup closes itself
     setTimeout(function(){ window.close() },1500);
