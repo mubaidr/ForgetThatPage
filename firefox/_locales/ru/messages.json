@@ -19,6 +19,10 @@
     "message": "локальное хранилище"
   },
 
+  "downloadsMessage": {
+    "message": "скачивание"
+  },
+
   "optionsSavedMessage": {
     "message": "Настройки сохранены"
   }

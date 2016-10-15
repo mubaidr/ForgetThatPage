@@ -9,5 +9,9 @@
 
   "localStorageMessage": {
     "message": "локално складиште"
+  },
+
+  "downloadsMessage": {
+    "message": "преузимања"
   }
 }

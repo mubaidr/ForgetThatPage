@@ -19,6 +19,10 @@
     "message": "로컬 스토리지"
   },
 
+  "downloadsMessage": {
+    "message": "다운로드"
+  },
+
   "optionsSavedMessage": {
     "message": "옵션 저장"
   }

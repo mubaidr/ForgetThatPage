@@ -3,7 +3,7 @@
     "message": "تم حذف هذه الصفحة من تاريخ التصفح بنجاح"
   },
 
-   "cookieMessage": {
+  "cookieMessage": {
     "message": "ملف تعريف ارتباط"
   },
 
@@ -17,6 +17,10 @@
 
   "localStorageMessage": {
     "message": "التخزين المحلي"
+  },
+
+  "downloadsMessage": {
+    "message": "تحميل"
   },
 
   "optionsSavedMessage": {

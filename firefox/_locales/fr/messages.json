@@ -19,6 +19,10 @@
     "message": "Stockage local"
   },
 
+  "downloadsMessage": {
+    "message": "Téléchargements"
+  },
+
   "optionsSavedMessage": {
     "message": "Options sauvegardées"
   }

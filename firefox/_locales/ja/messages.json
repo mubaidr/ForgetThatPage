@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "このサイトはあなたの閲覧履歴から削除されました。"
+  },
+
+  "optionsTitleMessage": {
+    "message": "データは削除します"
+  },
+
+  "sessionStorageMessage": {
+    "message": "セッションストレージ"
+  },
+
+  "localStorageMessage": {
+    "message": "ローカルストレージ"
+  },
+
+  "cookieMessage": {
+    "message": "クッキー"
+  },
+
+  "downloadsMessage": {
+    "message": "ダウンロード"
+  },
+
+  "optionsSavedMessage": {
+    "message": "オプションは、保存されました"
   }
 }

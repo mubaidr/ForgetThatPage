@@ -10,14 +10,16 @@
 //
 
 // Get messages for options
+var optionsTitleMessage = chrome.i18n.getMessage("optionsTitleMessage");
 var cookieMessage = chrome.i18n.getMessage("cookieMessage");
 var localStorageMessage = chrome.i18n.getMessage("localStorageMessage");
 var sessionStorageMessage = chrome.i18n.getMessage("sessionStorageMessage");
-var optionsTitleMessage = chrome.i18n.getMessage("optionsTitleMessage");
+var downloadsMessage = chrome.i18n.getMessage("downloadsMessage");
+document.getElementById("optionsTitleMessage").innerHTML = optionsTitleMessage;
 document.getElementById("cookieMessage").innerHTML = cookieMessage;
 document.getElementById("localStorageMessage").innerHTML = localStorageMessage;
 document.getElementById("sessionStorageMessage").innerHTML = sessionStorageMessage;
-document.getElementById("optionsTitleMessage").innerHTML = optionsTitleMessage;
+document.getElementById("downloadsMessage").innerHTML = downloadsMessage;
 
 // Saves options to chrome.storage.sync.
 function save_options() {
@@ -25,11 +27,13 @@ function save_options() {
   var cookies = document.getElementById('cookies').checked;
   var localStorage = document.getElementById('localStorage').checked;
   var sessionStorage = document.getElementById('sessionStorage').checked;
+  var downloads = document.getElementById('downloads').checked;
 
   chrome.storage.local.set({
     cookies: cookies,
     localStorage: localStorage,
-    sessionStorage: sessionStorage
+    sessionStorage: sessionStorage,
+    downloads: downloads
   }, function() {
 
     // Update status to let user know options were saved.
@@ -50,11 +54,13 @@ function restore_options() {
   chrome.storage.local.get({
     cookies: true,
     localStorage: true,
-    sessionStorage: true
+    sessionStorage: true,
+    downloads: true
   }, function(items) {
     document.getElementById('cookies').checked = items.cookies ;
     document.getElementById('localStorage').checked = items.localStorage ;
     document.getElementById('sessionStorage').checked = items.sessionStorage ;
+    document.getElementById('downloads').checked = items.downloads ;
   });
 
 }

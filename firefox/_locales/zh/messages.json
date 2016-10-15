@@ -19,6 +19,10 @@
     "message": "本地储存"
   },
 
+  "downloadsMessage": {
+    "message": "下载"
+  },
+
   "optionsSavedMessage": {
     "message": "选项已保存"
   }

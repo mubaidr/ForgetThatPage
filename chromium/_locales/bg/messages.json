@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Тази страница беше успешно изтрита от историята на сърфирането"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Данни за изтриване :"
+  },
+
+  "cookieMessage": {
+    "message": "Бисквитки"
+  },
+
+   "sessionStorageMessage": {
+    "message": "съхранение на сесията"
+  },
+
+  "localStorageMessage": {
+    "message": "местно съхранение"
+  },
+
+  "downloadsMessage": {
+    "message": "изтегляния"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Опции бележник"
   }
 }

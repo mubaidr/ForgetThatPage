@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "Цю сторінку було успішно видалено з історії Вашого браузера"
+  },
+
+  "downloadsMessage": {
+    "message": "завантажень"
   }
 }

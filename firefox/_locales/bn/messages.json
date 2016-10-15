@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "এই পেজ টি আপনার ব্রাউসিং হিস্ট্রি থেকে সফলভাবে মুছে ফেলা হয়েছে"
+  },
+
+  "optionsTitleMessage": {
+    "message": "ডেটা মুছে দিতে"
+  },
+
+  "cookieMessage": {
+    "message": "বিস্কুট"
+  },
+
+   "sessionStorageMessage": {
+    "message": "অধিবেশন স্টোরেজ"
+  },
+
+  "localStorageMessage": {
+    "message": "স্থানীয় সংগ্রহস্থল"
+  },
+
+  "downloadsMessage": {
+    "message": "ডাউনলোড"
+  },
+
+  "optionsSavedMessage": {
+    "message": "বিকল্পগুলি সংরক্ষিত"
   }
 }

@@ -1,5 +1,9 @@
 {
   "websiteDeletedOK": {
     "message": "Η σελίδα αυτή διαγράφηκε επιτυχώς από το ιστορικό περιήγησής σας"
+  },
+
+  "downloadsMessage": {
+    "message": "λήψεις"
   }
 }

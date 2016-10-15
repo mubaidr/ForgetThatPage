@@ -19,6 +19,10 @@
     "message": "स्थानीय भंडारण"
   },
 
+  "downloadsMessage" : {
+    "message": "डाउनलोड"
+  },
+
   "optionsSavedMessage": {
     "message": "विकल्प सेव किये गए"
   }

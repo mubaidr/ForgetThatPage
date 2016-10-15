@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.5
+// v1.6
 //
 // Cyril Weller
 // cyril.weller@protonmail.com
@@ -12,15 +12,18 @@
 var pageCookies;
 var pageLocalStorage;
 var pageSessionStorage;
+var downloads;
 
 chrome.storage.sync.get({
   cookies: true,
   localStorage: true,
   sessionStorage: true,
+  downloads: true
 }, function(items) {
   pageCookies = items.cookies ;
   pageLocalStorage  = items.localStorage ;
   pageSessionStorage = items.sessionStorage ;
+  pageDownloads = items.downloads ;
 });
 
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
@@ -57,6 +60,18 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
         //alert("delete localStorage");
         chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
       }
+    }
+
+    /********************/
+    /* DELETE DOWNLOADS */
+    /********************/
+
+    if (pageDownloads) {
+
+      // Erase downloads for current url
+      chrome.downloads.erase({
+        url:currentUrl
+      });
     }
 
     /******************/

@@ -40,6 +40,7 @@
     "activeTab",
     "cookies",
     "storage",
+    "downloads",
     "https://*/",
     "http://*/"
   ],

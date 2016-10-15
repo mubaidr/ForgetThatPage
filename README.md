@@ -1,4 +1,6 @@
 # <img src="chromium/img/icon/swipe64.png" width="50" height="50"/> Forget That Page  
+<img src=".images/License-GPLv3-blue.svg"/>
+
 We all at some point ended up on a webpage that we don't want to appear on our browsing history. Either it's for a gift, or a dumb page...
 
 With "Forget That Page", you can delete from your history the webpage you're on, just in one click !
@@ -75,6 +77,7 @@ Same as Chrome version
 
 ## Versioning
 ### Version 1.5.0 - Work In Progress
+* Delete downloads for page url
 * Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage.
 * Added Norwegian, Vietnamese, Bulgarian, Greek, Ukrainian and Thai. (translation from https://gengo.com/)
 * Changed green icon

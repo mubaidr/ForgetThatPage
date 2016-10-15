@@ -5,5 +5,9 @@
 
    "cookieMessage": {
     "message": "کوکی اچ‌تی‌تی‌پی"
+  },
+
+  "downloadsMessage": {
+    "message": "دانلود"
   }
 }

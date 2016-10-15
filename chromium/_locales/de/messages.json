@@ -15,6 +15,10 @@
     "message": "Lokale speicherung"
   },
 
+  "downloadsMessage": {
+    "message": "Herunterladen"
+  },
+
   "optionsSavedMessage": {
     "message": "Optionen gespeichert"
   }
