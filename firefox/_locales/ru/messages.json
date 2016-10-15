@@ -3,6 +3,10 @@
     "message": "Эта страница была удалена из вашей истории посещений"
   },
 
+  "optionsTitleMessage": {
+    "message": "Данные для удаления :"
+  },
+
    "cookieMessage": {
     "message": "Ку́ки"
   },
@@ -13,5 +17,9 @@
 
   "localStorageMessage": {
     "message": "локальное хранилище"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Настройки сохранены"
   }
 }

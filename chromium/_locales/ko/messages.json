@@ -7,6 +7,10 @@
     "message": "쿠키"
   },
 
+  "optionsTitleMessage": {
+    "message": "데이터 삭제 :"
+  },
+
   "sessionStorageMessage": {
     "message": "세션 저장"
   },

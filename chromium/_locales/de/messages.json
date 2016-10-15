@@ -3,8 +3,8 @@
     "message": "Diese Seite wurde erfolgreich aus Ihrem Browserverlauf gelöscht"
   },
 
-  "cookieMessage": {
-    "message": "Cookies"
+  "optionsTitleMessage": {
+    "message": "Daten zu löschen :"
   },
 
   "sessionStorageMessage": {

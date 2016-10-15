@@ -5,5 +5,21 @@
 
    "cookieMessage": {
     "message": "स्मृतिशेष"
+  },
+
+  "optionsTitleMessage": {
+    "message": "डेटा को नष्ट करने"
+  },
+
+  "sessionStorageMessage": {
+    "message": "सत्र का भंडारण"
+  },
+
+  "localStorageMessage": {
+    "message": "स्थानीय भंडारण"
+  },
+
+  "optionsSavedMessage": {
+    "message": "विकल्प सेव किये गए"
   }
 }

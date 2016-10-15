@@ -5,5 +5,21 @@
 
    "cookieMessage": {
     "message": "ملف تعريف ارتباط"
+  },
+
+  "optionsTitleMessage": {
+    "message": "بيانات حذف"
+  },
+
+  "sessionStorageMessage": {
+    "message": "تخزين الجلسة"
+  },
+
+  "localStorageMessage": {
+    "message": "التخزين المحلي"
+  },
+
+  "optionsSavedMessage": {
+    "message": "خيارات حفظ"
   }
 }
