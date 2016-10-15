@@ -3,6 +3,10 @@
     "message": "Cette page a été correctement effacée de votre historique de navigation"
   },
 
+  "optionsTitleMessage": {
+    "message": "Données à supprimer :"
+  },
+
   "cookieMessage": {
     "message": "Cookies"
   },

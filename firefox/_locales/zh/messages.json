@@ -3,6 +3,10 @@
     "message": "该页面已成功从你的浏览历史中删除"
   },
 
+  "optionsTitleMessage": {
+    "message": "要删除的数据"
+  },
+
    "cookieMessage": {
     "message": "小甜餅"
   },

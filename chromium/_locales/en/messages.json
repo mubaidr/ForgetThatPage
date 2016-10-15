@@ -3,6 +3,10 @@
     "message": "This page was successfully deleted from your browsing history"
   },
 
+  "optionsTitleMessage": {
+    "message": "Data to delete :"
+  },
+
    "cookieMessage": {
     "message": "Cookies"
   },

@@ -3,6 +3,10 @@
     "message": "Die blad was suksesvol uit jou soek geskiedenis verwis"
   },
 
+  "optionsTitleMessage": {
+    "message": "Data te verwyder :"
+  },
+
   "sessionStorageMessage": {
    "message": "Sessie stoor"
   },

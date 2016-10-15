@@ -13,9 +13,11 @@
 var cookieMessage = chrome.i18n.getMessage("cookieMessage");
 var localStorageMessage = chrome.i18n.getMessage("localStorageMessage");
 var sessionStorageMessage = chrome.i18n.getMessage("sessionStorageMessage");
+var optionsTitleMessage = chrome.i18n.getMessage("optionsTitleMessage");
 document.getElementById("cookieMessage").innerHTML = cookieMessage;
 document.getElementById("localStorageMessage").innerHTML = localStorageMessage;
 document.getElementById("sessionStorageMessage").innerHTML = sessionStorageMessage;
+document.getElementById("optionsTitleMessage").innerHTML = optionsTitleMessage;
 
 // Saves options to chrome.storage.sync.
 function save_options() {
