@@ -1,5 +1,6 @@
 # <img src="chromium/img/icon/swipe64.png" width="50" height="50"/> Forget That Page  
-<img src=".images/License-GPLv3-blue.svg"/>
+
+[![Licence GPL](.images/License-GPLv3-blue.svg")]
 
 We all at some point ended up on a webpage that we don't want to appear on our browsing history. Either it's for a gift, or a dumb page...
 
