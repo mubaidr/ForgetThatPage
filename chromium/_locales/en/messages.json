@@ -4,7 +4,7 @@
   },
 
   "optionsTitleMessage": {
-    "message": "Data to delete :"
+    "message": "Data to delete"
   },
 
    "cookieMessage": {
@@ -20,7 +20,7 @@
   },
 
   "downloadsMessage": {
-    "message": "Downloads"
+    "message": "Downloads list"
   },
 
   "optionsSavedMessage": {

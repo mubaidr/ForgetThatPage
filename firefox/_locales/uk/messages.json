@@ -3,7 +3,27 @@
     "message": "Цю сторінку було успішно видалено з історії Вашого браузера"
   },
 
+  "optionsTitleMessage": {
+    "message": "Дані для видалення"
+  },
+
+   "cookieMessage": {
+    "message": "печиво"
+  },
+
+  "sessionStorageMessage": {
+    "message": "зберігання сесій"
+  },
+
+  "localStorageMessage": {
+    "message": "локальне запам'ятовуючий пристрій"
+  },
+
   "downloadsMessage": {
-    "message": "завантажень"
+    "message": "список завантажень"
+  },
+
+  "optionsSavedMessage": {
+    "message": "налаштування збережені"
   }
 }

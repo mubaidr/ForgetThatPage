@@ -4,7 +4,7 @@
   },
 
   "optionsTitleMessage": {
-    "message": "Datos para borrar :"
+    "message": "Datos para borrar"
   },
 
   "sessionStorageMessage": {
@@ -16,7 +16,7 @@
   },
 
   "downloadsMessage": {
-    "message": "Descargas"
+    "message": "Lista de descargas"
   },
 
   "optionsSavedMessage": {

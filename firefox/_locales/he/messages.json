@@ -3,11 +3,27 @@
     "message": "דף זה נמחק בהצלחה מהיסטוריית הגלישה שלך"
   },
 
+  "optionsTitleMessage": {
+    "message": "נתונים למחוק"
+  },
+
+  "sessionStorageMessage": {
+   "message": "אחסון הפעלה"
+ },
+
+  "localStorageMessage": {
+   "message": "אחסון מקומי"
+ },
+
    "cookieMessage": {
     "message": "עוגיות"
   },
 
   "downloadsMessage": {
-    "message": "להורדה"
+    "message": "רשימת הורדות"
+  },
+
+  "optionsSavedMessage": {
+    "message": "אפשרויות נשמרו"
   }
 }

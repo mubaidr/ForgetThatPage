@@ -4,7 +4,7 @@
   },
 
   "optionsTitleMessage": {
-    "message": "Data te verwyder :"
+    "message": "Data te verwyder"
   },
 
   "sessionStorageMessage": {
@@ -17,6 +17,10 @@
 
   "cookieMessage": {
     "message": "Koekies"
+  },
+
+  "downloadsMessage":{
+    "message": "Downloads lys"
   },
 
   "optionsSavedMessage": {

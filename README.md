@@ -78,7 +78,7 @@ Same as Chrome version
 
 ## Versioning
 ### Version 1.5.0 - Work In Progress
-* Delete downloads for page url
+* Delete downloads list for page url
 * Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage.
 * Added Norwegian, Vietnamese, Bulgarian, Greek, Ukrainian and Thai. (translation from https://gengo.com/)
 * Changed green icon

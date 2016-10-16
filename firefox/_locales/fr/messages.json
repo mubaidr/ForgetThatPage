@@ -4,7 +4,7 @@
   },
 
   "optionsTitleMessage": {
-    "message": "Données à supprimer :"
+    "message": "Données à supprimer"
   },
 
   "cookieMessage": {
@@ -20,7 +20,7 @@
   },
 
   "downloadsMessage": {
-    "message": "Téléchargements"
+    "message": "Liste de téléchargements"
   },
 
   "optionsSavedMessage": {
