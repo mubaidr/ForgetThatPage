@@ -3,6 +3,14 @@
     "message": "Ова страница је успешно обрисана из историје вашег претраживача"
   },
 
+  "optionsTitleMessage": {
+    "message": "подаци за брисање"
+  },
+
+   "cookieMessage": {
+    "message": "колачи"
+  },
+
   "sessionStorageMessage": {
     "message": "седница складиштење"
   },
@@ -13,5 +21,9 @@
 
   "downloadsMessage": {
     "message": "преузимања"
+  },
+
+  "optionsSavedMessage": {
+    "message": "opcije сачуване"
   }
 }

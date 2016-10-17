@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Deze pagina werd met succes verwijderd van uw internetgeschiedenis"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Data wissen"
+  },
+
+   "cookieMessage": {
+    "message": "Koekjes"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Sessie opslag"
+  },
+
+  "localStorageMessage": {
+    "message": "Lokale opslag"
+  },
+
+  "downloadsMessage": {
+    "message": "Downloaden lijst"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opties gered"
   }
 }

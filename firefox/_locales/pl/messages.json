@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Strona została pomyślnie usunięta z historii Twojej przeglądarki"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Dane usunąć"
+  },
+
+   "cookieMessage": {
+    "message": "Ciasteczka"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Sesja przechowywanie"
+  },
+
+  "localStorageMessage": {
+    "message": "Lokalny przechowywanie"
+  },
+
+  "downloadsMessage": {
+    "message": "Lista pliki do pobrania"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opcje zapisane"
   }
 }

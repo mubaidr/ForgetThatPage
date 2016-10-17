@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Denne siden ble slettet fra leserloggen din"
-  }
+   },
+
+   "optionsTitleMessage": {
+     "message": "Data for å slette"
+   },
+
+    "cookieMessage": {
+     "message": "Kjeks"
+   },
+
+   "sessionStorageMessage": {
+     "message": "økt lagring"
+   },
+
+   "localStorageMessage": {
+     "message": "Lokal lagring"
+   },
+
+   "downloadsMessage": {
+     "message": "Nedlastinger liste"
+   },
+
+   "optionsSavedMessage": {
+     "message": "Alternativer lagret"
+   }
 }

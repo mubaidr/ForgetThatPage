@@ -3,7 +3,27 @@
      "message": "Sidan har tagits bort från din webbläsarhistorik"
    },
 
+   "optionsTitleMessage": {
+     "message": "Data för att ta bort"
+   },
+
     "cookieMessage": {
      "message": "Webbkaka"
+   },
+
+   "sessionStorageMessage": {
+     "message": "Sessionslagring "
+   },
+
+   "localStorageMessage": {
+     "message": "Lokal lagring"
+   },
+
+   "downloadsMessage": {
+     "message": "nedladdningar lista"
+   },
+
+   "optionsSavedMessage": {
+     "message": "Alternativ sparas"
    }
  }

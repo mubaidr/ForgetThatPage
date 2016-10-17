@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Halaman ini telah berjaya dipadam dari rakaman anda"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Data untuk memadam"
+  },
+
+   "cookieMessage": {
+    "message": "Cookies"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Sesi simpanan"
+  },
+
+  "localStorageMessage": {
+    "message": "Tempatan simpanan"
+  },
+
+  "downloadsMessage": {
+    "message": "Senarai muat turun"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Pilihan disimpan"
   }
 }

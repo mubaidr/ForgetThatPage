@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Esta página foi deletada com sucesso do seu histórico de navegação"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Dados para excluir"
+  },
+
+   "cookieMessage": {
+    "message": "Cookies"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Armazenamento de sessão"
+  },
+
+  "localStorageMessage": {
+    "message": "Armazenamento local"
+  },
+
+  "downloadsMessage": {
+    "message": "Lista de baixar"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opções salvo"
   }
 }

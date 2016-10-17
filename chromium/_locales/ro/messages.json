@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Această pagină a fost ștearsă din istoricul căutărilor tale cu succes"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Date pentru a șterge"
+  },
+
+   "cookieMessage": {
+    "message": "Fursecuri"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Stocare a sesiune"
+  },
+
+  "localStorageMessage": {
+    "message": "Stocare locală"
+  },
+
+  "downloadsMessage": {
+    "message": "Lista de descărcări"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opțiunile au fost salvate"
   }
 }
