@@ -3,8 +3,28 @@
     "message": "Bu sayfa tarama geçmişinizden başarıyla silinmiştir"
   },
 
-  "cookieMessage": {
+  "optionsTitleMessage": {
+    "message": "Veri silme"
+  },
+
+   "cookieMessage": {
     "message": "Çerez"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Oturum depolama"
+  },
+
+  "localStorageMessage": {
+    "message": "Yerel depolama"
+  },
+
+  "downloadsMessage": {
+    "message": "Indir listesi"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Seçenekler kaydedildi"
   }
 
 }

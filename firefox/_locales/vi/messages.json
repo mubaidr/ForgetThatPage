@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Trang này đã được xóa thành công khỏi lịch sử trình duyệt"
+  },
+
+  "optionsTitleMessage": {
+    "message": "dữ liệu để xóa"
+  },
+
+   "cookieMessage": {
+    "message": "bánh quy"
+  },
+
+  "sessionStorageMessage": {
+    "message": "lưu trữ phiên"
+  },
+
+  "localStorageMessage": {
+    "message": "lưu trữ địa phương"
+  },
+
+  "downloadsMessage": {
+    "message": "danh sách tải về"
+  },
+
+  "optionsSavedMessage": {
+    "message": "tùy chọn lưu"
   }
 }

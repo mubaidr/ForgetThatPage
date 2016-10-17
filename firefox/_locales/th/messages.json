@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "หน้านี้ถูกลบออกจากประวัติการท่องเว็บของคุณเรียบร้อยแล้ว"
+  },
+
+  "optionsTitleMessage": {
+    "message": "ข้อมูลที่จะลบ"
+  },
+
+   "cookieMessage": {
+    "message": "คุ้กกี้"
+  },
+
+  "sessionStorageMessage": {
+    "message": "การจัดเก็บเซสชั่น"
+  },
+
+  "localStorageMessage": {
+    "message": "จัดเก็บในท้องถิ่น"
+  },
+
+  "downloadsMessage": {
+    "message": "รายการการดาวน์โหลด"
+  },
+
+  "optionsSavedMessage": {
+    "message": "ตัวเลือกที่บันทึกไว้"
   }
 }

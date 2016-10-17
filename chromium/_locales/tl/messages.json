@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Ang pahinang ito ay natanggal sa iyong browsing history"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Data upang tanggalin"
+  },
+
+   "cookieMessage": {
+    "message": "Cookies"
+  },
+
+  "sessionStorageMessage": {
+    "message": "Sesyon imbakan"
+  },
+
+  "localStorageMessage": {
+    "message": "Lokal na imbakan"
+  },
+
+  "downloadsMessage": {
+    "message": "Download listahan"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Pagpipilian ligtas"
   }
 }
