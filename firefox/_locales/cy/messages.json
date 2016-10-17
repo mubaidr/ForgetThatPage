@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Mae'r dudalen hon wedi cael ei ddileu o'ch hanes"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Data i ddileu"
+  },
+
+   "cookieMessage": {
+    "message": "Cwcis"
+  },
+
+   "sessionStorageMessage": {
+    "message": "Sesiwn storio"
+  },
+
+   "localStorageMessage": {
+    "message": "Lleol storio"
+  },
+
+  "downloadsMessage": {
+    "message": "Rhestr lawrlwytho"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opsiynau arbed"
   }
 }

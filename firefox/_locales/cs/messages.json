@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Tato stránka byla úspěšně vymazána z Vaší prohlížecí historie"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Údaje odstranit"
+  },
+
+   "cookieMessage": {
+    "message": "Sušenky"
+  },
+
+   "sessionStorageMessage": {
+    "message": "Zasedání úložný prostor"
+  },
+
+   "localStorageMessage": {
+    "message": "Místní úložný prostor"
+  },
+
+  "downloadsMessage": {
+    "message": "Seznam ke stažení"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Možnosti uloženy"
   }
 }

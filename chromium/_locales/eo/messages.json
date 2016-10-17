@@ -3,11 +3,27 @@
     "message": "Ĉi tiu paĝo sukcese forviŝiĝis de via retumhistorio"
   },
 
+  "optionsTitleMessage": {
+    "message": "Datumoj por forviŝi"
+  },
+
    "cookieMessage": {
     "message": "Kuketoj"
   },
 
+   "sessionStorageMessage": {
+    "message": "Kunsido stokado"
+  },
+
+   "localStorageMessage": {
+    "message": "Loka stokado"
+  },
+
   "downloadsMessage": {
-    "message": "Malŝarĝo"
+    "message": "Elŝutoj listo"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Opcioj savis"
   }
 }

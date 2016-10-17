@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Tämä sivu on onnistuneesti poistettu selaushistoriastasi"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Data poistaa"
+  },
+
+   "cookieMessage": {
+    "message": "Evästeet"
+  },
+
+   "sessionStorageMessage": {
+    "message": "Istunto varastointi"
+  },
+
+   "localStorageMessage": {
+    "message": "Paikallinen varastointi"
+  },
+
+  "downloadsMessage": {
+    "message": "Lataukset lista"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Vaihtoehdot tallennettu"
   }
 }

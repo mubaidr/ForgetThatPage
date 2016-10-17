@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Ez az oldal sikeresen törölve lett a böngészési elözmenyeiböl"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Az adatok törlése"
+  },
+
+   "cookieMessage": {
+    "message": "Keksz"
+  },
+
+   "sessionStorageMessage": {
+    "message": "Ulés tárolás"
+  },
+
+   "localStorageMessage": {
+    "message": "Helyi tárolás"
+  },
+
+  "downloadsMessage": {
+    "message": "Letöltések listája"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Beállítások elmentve"
   }
 }

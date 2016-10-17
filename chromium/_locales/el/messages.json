@@ -3,7 +3,27 @@
     "message": "Η σελίδα αυτή διαγράφηκε επιτυχώς από το ιστορικό περιήγησής σας"
   },
 
+  "optionsTitleMessage": {
+    "message": "Δεδομένα για να διαγράψετε"
+  },
+
+   "cookieMessage": {
+    "message": "Μπισκότα"
+  },
+
+   "sessionStorageMessage": {
+    "message": "συνεδρία αποθήκη"
+  },
+
+   "localStorageMessage": {
+    "message": "τοπικός αποθήκη"
+  },
+
   "downloadsMessage": {
-    "message": "λήψεις"
+    "message": "κατάλογος λήψεις"
+  },
+
+  "optionsSavedMessage": {
+    "message": "επιλογές σωθεί"
   }
 }

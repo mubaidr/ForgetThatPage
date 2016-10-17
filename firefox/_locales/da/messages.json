@@ -1,5 +1,29 @@
 {
   "websiteDeletedOK": {
     "message": "Denne side er blevet fjernet fra din browserhistorik"
+  },
+
+  "optionsTitleMessage": {
+    "message": "Data for at slette"
+  },
+
+   "cookieMessage": {
+    "message": "Småkager"
+  },
+
+   "sessionStorageMessage": {
+    "message": "Session opbevaring"
+  },
+
+   "localStorageMessage": {
+    "message": "Lokal opbevaring"
+  },
+
+  "downloadsMessage": {
+    "message": "Hent liste"
+  },
+
+  "optionsSavedMessage": {
+    "message": "Indstillinger gemt"
   }
 }
