@@ -4,7 +4,8 @@
 
 We all at some point ended up on a webpage that we don't want to appear on our browsing history. Either it's for a gift, or a dumb page...
 
-With "Forget That Page", you can delete from your history the webpage you're on, just in one click !
+With "Forget That Page", you can delete the current webpage from your browsing history, just in one click !
+It also deletes cookies, session storage, local storage and download history for that page.
 
 It's simple but useful, and also open source !
 
@@ -91,20 +92,6 @@ Same as Chrome version
 * Same version number for Chrome, Firefox and Opera
 * Added Japanese and Chinese for all versions
 
-### Opera version - Available since 05/10/2016 !
-* Same as Chrome version (Opera is based on Chromium and accepts Chrome extensions)
-* Added Chinese
-
-### Version 1.3.0.2 for Firefox - 05/10/2016
-* Slightly better CSS
-
-### Version 1.3.0.1 for Firefox - 04/10/2016
-* Design changes for Firefox (Note : old CSS seems OK for Firefox 51+)
-* Added Chinese
-
-### Firefox version - Available since 03/10/2016 !
-* Converting Chrome v1.3.0 to Firefox
-
 ### Version 1.3.0 - 03/10/2016
 * Delete local storage
 * Delete session storage
@@ -115,7 +102,7 @@ Same as Chrome version
 
 <b> Thanks to all Reddit translators for their help</b>
 
-### Older versions notes available in the Wiki section
+### All versions notes are available in the Wiki section
 
 #### Note
 Minor version number is incremented when a new feature is added.
