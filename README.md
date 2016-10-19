@@ -15,7 +15,6 @@ It's simple but useful, and also open source !
 
 * [Articles about the extension](#quick-start)
 * [How to use it](#how-to-use-it)
-* [Incoming features](#incoming-features)
 * [Versioning](#versioning)
 * [References](#references)
 * [Copyright and license](#copyright-and-license)
@@ -34,7 +33,7 @@ Here are some articles that were written about the extension, all the articles a
 
 ### <img src=".images/Chrome_icon.png" /> Chrome
 #### Stable version
-Download it from the Google Chrome web store :
+Download from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
 #### Unstable version
@@ -51,7 +50,7 @@ Installation is exactly like Chrome. Also, other browsers based on Chromium prob
 
 ### <img src=".images/Firefox_icon.png" /> Firefox (for version 49 and more)
 #### Stable version
-Download it from Mozilla add-ons:
+Download from Mozilla add-ons store:
 https://addons.mozilla.org/firefox/addon/forget-that-page/
 
 #### Unstable version
@@ -63,19 +62,11 @@ https://addons.mozilla.org/firefox/addon/forget-that-page/
 
 ### <img src=".images/Opera_icon.png" /> Opera
 #### Stable version
-Download it from Opera add-ons:
+Download from Opera add-ons store:
 https://addons.opera.com/fr/extensions/details/forget-that-page/
 
 #### Unstable version
 Same as Chrome version
-
-## Incoming features
-* If possible :
-    - Blacklist
-    - Delete search history
-    - Adapt icon to dark themes
-* (Better design)
-* (More languages supported)
 
 ## Versioning
 ### Version 1.5.0 - 17/10/2016
