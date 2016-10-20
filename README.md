@@ -4,7 +4,7 @@
 
 We all at some point ended up on a webpage that we don't want to appear on our browsing history. Either it's for a gift, or a dumb page...
 
-With "Forget That Page", you can delete the current webpage from your browsing history, just in one click !
+With "Forget That Page", you can totally delete the current webpage from your browsing history, just in one click !
 It also deletes cookies, session storage, local storage and download history for that page.
 
 It's simple but useful, and also open source !
@@ -27,7 +27,7 @@ Here are some articles that were written about the extension, all the articles a
 <p> seo-michael.co.uk : https://seo-michael.co.uk/forget-that-page-for-chrome/ </p>
 <p> apprcn.com : http://www.apprcn.com/forget-that-page.html </p>
 
-<b> Thanks to all the persons who wrote those articles ! </b>
+<b> Thanks to the persons who wrote those articles ! </b>
 
 ## How to use it
 
@@ -42,7 +42,7 @@ https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaip
 * Go to "chrome://extensions/" on your Chromium/Google Chrome browser
 * Allow developer mode
 * Select "load unpacked extension"
-* Browse to the folder previously created
+* Browse to the previously created folder
 
 ##### Note
 Vivaldi browser supports Chrome extensions, type "vivaldi://extensions" on your search bar.
@@ -71,7 +71,7 @@ Same as Chrome version
 ## Versioning
 ### Version 1.5.0 - 17/10/2016
 * Delete downloads list for page url
-* Options page. By default everything is deleted, it allows the user not to delete cookies and/or sessionStorage and/or localStorage
+* Options page. By default everything is deleted but the user can choose not to delete cookies and/or sessionStorage and/or localStorage
 * Added Norwegian, Vietnamese, Bulgarian, Greek, Ukrainian and Thai (Translation from https://gengo.com/)
 * Changed green icon
 
@@ -119,8 +119,7 @@ Copyright (c) 2016, Cyril Weller
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+the Free Software Foundation, either version 3 of the License.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
