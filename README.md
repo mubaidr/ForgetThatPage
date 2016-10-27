@@ -31,7 +31,10 @@ Here are some articles that were written about the extension, all the articles a
 <b> Thanks to the persons who wrote those articles ! </b>
 
 ## Statistics
-
+On 27/10/2016 :
+* **905** Downloads for Opera
+* **356** Daily users on Chrome
+* **1 254** Downloads and **220** average daily users on Firefox
 
 ## How to use it
 
