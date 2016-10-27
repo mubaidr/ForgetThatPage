@@ -13,7 +13,8 @@ It's simple but useful, and also open source !
 
 ## Table of contents
 
-* [Articles about the extension](#quick-start)
+* [Articles about the extension](#articles)
+* [Statistics](#statistics)
 * [How to use it](#how-to-use-it)
 * [Versioning](#versioning)
 * [References](#references)
@@ -28,6 +29,9 @@ Here are some articles that were written about the extension, all the articles a
 <p> apprcn.com : http://www.apprcn.com/forget-that-page.html </p>
 
 <b> Thanks to the persons who wrote those articles ! </b>
+
+## Statistics
+
 
 ## How to use it
 
