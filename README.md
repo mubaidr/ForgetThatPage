@@ -69,6 +69,9 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Versioning
+### Version 1.x.x - Work In Progress
+* If the url ends with '/', delete without '/'. If it doesn't, delete url with the '/'
+
 ### Version 1.5.0 - 17/10/2016
 * Delete downloads list for page url
 * Options page. By default everything is deleted but the user can choose not to delete cookies and/or sessionStorage and/or localStorage
