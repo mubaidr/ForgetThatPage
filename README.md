@@ -13,28 +13,10 @@ It's simple but useful, and also open source !
 
 ## Table of contents
 
-* [Articles about the extension](#articles)
-* [Statistics](#statistics)
 * [How to use it](#how-to-use-it)
 * [Versioning](#versioning)
 * [References](#references)
 * [Copyright and license](#copyright-and-license)
-
-## Articles about the extension
-Here are some articles that were written about the extension, all the articles are available in the Wiki section:
-
-<p> techcollecto.com : http://www.techcollecto.com/2016/10/05/delete-history-current-webpage-in-one-click-firefox-add-on/ </p>
-<p> ghacks.net : http://www.ghacks.net/2016/10/07/remove-traces-with-forget-that-page/ </p>
-<p> seo-michael.co.uk : https://seo-michael.co.uk/forget-that-page-for-chrome/ </p>
-<p> apprcn.com : http://www.apprcn.com/forget-that-page.html </p>
-
-<b> Thanks to the persons who wrote those articles ! </b>
-
-## Statistics
-On 27/10/2016 :
-* **905** Downloads for Opera
-* **356** Daily users on Chrome
-* **1 254** Downloads and **220** average daily users on Firefox
 
 ## How to use it
 
