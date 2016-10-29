@@ -1,7 +1,7 @@
 //
 // popup.js
 //
-// v1.6
+// v1.7
 //
 // Cyril Weller
 // cyril.weller@protonmail.com

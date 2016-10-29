@@ -1,4 +1,4 @@
-# <img src="chromium/img/icon/swipe64.png" width="50" height="50"/> Forget That Page  
+#<img src="chromium/img/icon/swipe64.png" width="50" height="50"/> Forget That Page  
 
 [![Licence GPL](http://img.shields.io/badge/license-GPL-green.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html)
 
