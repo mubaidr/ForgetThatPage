@@ -66,3 +66,5 @@ chrome.tabs.onCreated.addListener(function(tabs){
   chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
 
 });
+
+
