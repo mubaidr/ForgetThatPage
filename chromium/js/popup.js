@@ -4,7 +4,7 @@
 // v1.7
 //
 // Cyril Weller
-// cyril.weller@protonmail.com
+// forgetthatpage@protonmail.com
 //
 // GNU GPLv3 license
 //
@@ -149,7 +149,7 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 	var currentUrl = tabs[0].url;
 
 	// Call function with current url argument
-	forgetThatPage(currentUrl);
+	var return = forgetThatPage(currentUrl);
 
 });
 

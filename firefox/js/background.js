@@ -4,7 +4,7 @@
 // v1.3.1
 //
 // Cyril Weller
-// cyril.weller@protonmail.com
+// forgetthatpage@protonmail.com
 //
 // GNU GPLv3 license
 //
@@ -66,3 +66,4 @@ chrome.tabs.onCreated.addListener(function(tabs){
   chrome.browserAction.setIcon({path:"img/icon/swipe128.png"});
 
 });
+

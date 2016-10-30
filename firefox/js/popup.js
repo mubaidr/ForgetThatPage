@@ -4,7 +4,7 @@
 // v1.7
 //
 // Cyril Weller
-// cyril.weller@protonmail.com
+// forgetthatpage@protonmail.com
 //
 // GNU GPLv3 license
 //

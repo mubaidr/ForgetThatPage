@@ -1,4 +1,4 @@
-#<img src="chromium/img/icon/swipe64.png" width="50" height="50"/> Forget That Page  
+#img src="chromium/img/icon/swipe64.png" width="50" height="50"/> Forget That Page  
 
 [![Licence GPL](http://img.shields.io/badge/license-GPL-green.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html)
 
@@ -26,7 +26,7 @@ Download from the Google Chrome web store :
 https://chrome.google.com/webstore/detail/forget-that-page/nolcpahhgjbmaoemlhaiplpjlljaefic
 
 #### Unstable version
-* Download the last release from https://github.com/cyril-we/ForgetThatPage/releases
+* Download the last release from https://github.com/ForgetThatPage/ForgetThatPage/releases
 * Unzip the archive to a folder
 * Go to "chrome://extensions/" on your Chromium/Google Chrome browser
 * Allow developer mode
@@ -43,7 +43,7 @@ Download from Mozilla add-ons store:
 https://addons.mozilla.org/firefox/addon/forget-that-page/
 
 #### Unstable version
-* Download the last release (.xpi file) from https://github.com/cyril-we/ForgetThatPage/releases
+* Download the last release (.xpi file) from https://github.com/ForgetThatPage/ForgetThatPage/releases
 * Go to "about:addons"
 * Click on the gear (Tools for all add-ons)
 * Select "Install Add-on From File..."
@@ -58,7 +58,7 @@ https://addons.opera.com/fr/extensions/details/forget-that-page/
 Same as Chrome version
 
 ## Versioning
-### Version 1.5.1 - Work In Progress
+### Version 1.5.1 - 30/10/2016
 * Code refactoring
 
 ### Version 1.5.0 - 17/10/2016
