@@ -149,7 +149,7 @@ chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
 	var currentUrl = tabs[0].url;
 
 	// Call function with current url argument
-	var return = forgetThatPage(currentUrl);
+	forgetThatPage(currentUrl);
 
 });
 
