@@ -32,9 +32,9 @@ chrome.storage.sync.get({
 //	function that will delete traces for a 
 //	specific url passed as  parameter
 //
-function forgetThatPage(currentUrl){
+function forgetThatPage(tab){
 	
-	chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
+	var currentUrl = tab.url;
 
 	/******************/
 	/* DELETE HISTORY */
@@ -54,16 +54,16 @@ function forgetThatPage(currentUrl){
 		// For http/https urlif option value is true
 		if (currentUrl.indexOf("http") !== -1) {
 			if (pageSessionStorage) {
-			// Alert for testing
-			//alert("delete sessionStorage");
-			chrome.tabs.executeScript(tabs[0].id, {code: 'sessionStorage.clear()'});
+				// Alert for testing
+				//alert("delete sessionStorage");
+				chrome.tabs.executeScript(tab.id, {code: 'sessionStorage.clear()'});
 			}
 
 			// Delete local storage for current url if option value is true
 			if (pageLocalStorage) {
 				// Alert for testing
 				//alert("delete localStorage");
-				chrome.tabs.executeScript(tabs[0].id, {code: 'localStorage.clear()'});
+				chrome.tabs.executeScript(tab.id, {code: 'localStorage.clear()'});
 			}
 		}	
 
@@ -75,7 +75,7 @@ function forgetThatPage(currentUrl){
 
 			// Erase downloads for current url
 			chrome.downloads.erase({
-				url:currentUrl
+				url: currentUrl
 			});
 		}
 
@@ -86,29 +86,29 @@ function forgetThatPage(currentUrl){
 		// Delete cookies if option value is true
 		if (pageCookies){
 
-		// Alert for testing
-		//alert("delete cookies");
-		
-		// Get all cookies for current url
-		chrome.cookies.getAll({
+			// Alert for testing
+			//alert("delete cookies");
+			
+			// Get all cookies for current url
+			chrome.cookies.getAll({
 
-			url: currentUrl
+				url: currentUrl
 
-		 }, function(cookies) {
+			}, function(cookies) {
 
-			// For every cookie in the cookie list
-			for (i = 0; i < cookies.length; i++) {
+				// For every cookie in the cookie list
+				for (i = 0; i < cookies.length; i++) {
 
-				// Remove the cookie
-				chrome.cookies.remove({
+					// Remove the cookie
+					chrome.cookies.remove({
 
-					url: currentUrl,
-					name: cookies[i].name
+						url: currentUrl,
+						name: cookies[i].name
 
-				}, function(){});
-			}
+					});
+				}
 
-		});
+			});
 		}
 
 		/*******************/
@@ -137,19 +137,15 @@ function forgetThatPage(currentUrl){
 		setTimeout(function(){ window.close() },1500);
 
 	});
-	
-	});
+
 }
 
 
 // Main program
 chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
-	
-	// Get current url
-	var currentUrl = tabs[0].url;
 
 	// Call function with current url argument
-	forgetThatPage(currentUrl);
+	forgetThatPage(tabs[0]);
 
 });
 
